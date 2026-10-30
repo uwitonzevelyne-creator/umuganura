@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="www/hero/logo.png" alt="Umuganura logo" width="120" />
 </p>
 
@@ -43,7 +43,9 @@
 
 The platform is built for **data integrity** — harvest, price, and store figures stay tied to loaded national tables and external series. Charts do not invent a national loss percentage to fill a gap.
 
-**Live demo:** [https://uwitonzeevelyne.shinyapps.io/umuganura/](https://uwitonzeevelyne.shinyapps.io/umuganura/)
+**Live app:** [https://uwitonzeevelyne.shinyapps.io/umuganura/](https://uwitonzeevelyne.shinyapps.io/umuganura/)  
+
+**Demo video:** [Watch / download](https://github.com/uwitonzevelyne-creator/umuganura/releases/download/demo/umuganura-demo.mp4)
 
 ---
 
@@ -138,6 +140,9 @@ Institutional export panel fallback: `dataset hachthon/CLEANED/rwanda_institutio
 ---
 
 ## Screenshots
+
+Demo walkthrough (MP4): [umuganura-demo.mp4](https://github.com/uwitonzevelyne-creator/umuganura/releases/download/demo/umuganura-demo.mp4)
+
 
 _Screenshots and a walkthrough video will be added soon._
 
