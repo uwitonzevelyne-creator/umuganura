@@ -10,9 +10,16 @@
 
 <p align="center">
   <a href="https://uwitonzeevelyne.shinyapps.io/umuganura/"><img src="https://img.shields.io/badge/Live%20app-shinyapps.io-success?style=for-the-badge" alt="Live app" /></a>
+  <a href="https://uwitonzeevelyne.shinyapps.io/umuganura/demo.html"><img src="https://img.shields.io/badge/Demo%20video-Watch-important?style=for-the-badge" alt="Demo video" /></a>
   <img src="https://img.shields.io/badge/R-4.5+-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R 4.5+" />
   <img src="https://img.shields.io/badge/Shiny-Posit-178BCA?style=for-the-badge" alt="Shiny" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" />
+</p>
+
+<p align="center">
+  <a href="https://uwitonzeevelyne.shinyapps.io/umuganura/">Live App</a> ·
+  <a href="https://uwitonzeevelyne.shinyapps.io/umuganura/demo.html">Demo Video</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 <p align="center">
@@ -43,9 +50,10 @@
 
 The platform is built for **data integrity** — harvest, price, and store figures stay tied to loaded national tables and external series. Charts do not invent a national loss percentage to fill a gap.
 
-**Live app:** [https://uwitonzeevelyne.shinyapps.io/umuganura/](https://uwitonzeevelyne.shinyapps.io/umuganura/)  
+### Quick Links
 
-**Demo video:** [Watch / download](https://github.com/uwitonzevelyne-creator/umuganura/releases/download/demo/umuganura-demo.mp4)
+- **Live Application:** [https://uwitonzeevelyne.shinyapps.io/umuganura/](https://uwitonzeevelyne.shinyapps.io/umuganura/)
+- **Demo Video:** [Watch Full Demo](https://uwitonzeevelyne.shinyapps.io/umuganura/demo.html) — opens and plays in the browser (no download)
 
 ---
 
@@ -141,10 +149,7 @@ Institutional export panel fallback: `dataset hachthon/CLEANED/rwanda_institutio
 
 ## Screenshots
 
-Demo walkthrough (MP4): [umuganura-demo.mp4](https://github.com/uwitonzevelyne-creator/umuganura/releases/download/demo/umuganura-demo.mp4)
-
-
-_Screenshots and a walkthrough video will be added soon._
+Demo walkthrough: [Watch in browser](https://uwitonzeevelyne.shinyapps.io/umuganura/demo.html) (plays on the page; no download)
 
 <!-- Placeholder: replace with GIF/PNG from the live app when ready -->
 

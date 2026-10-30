@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Umuganura — Demo walkthrough</title>
+  <style>
+    :root {
+      --bg: #0f1a12;
+      --panel: #162218;
+      --text: #f3f6f1;
+      --muted: #b7c4b5;
+      --accent: #c4a35a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(ellipse 80% 50% at 20% 0%, rgba(196, 163, 90, 0.18), transparent 55%),
+        radial-gradient(ellipse 70% 45% at 90% 100%, rgba(46, 90, 58, 0.35), transparent 50%),
+        var(--bg);
+      color: var(--text);
+      font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 1.5rem 1rem 2.5rem;
+    }
+    header {
+      width: min(960px, 100%);
+      margin-bottom: 1rem;
+    }
+    h1 {
+      margin: 0 0 0.35rem;
+      font-size: clamp(1.4rem, 3vw, 1.9rem);
+      font-weight: 650;
+      letter-spacing: 0.01em;
+    }
+    p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 42rem;
+      line-height: 1.45;
+    }
+    .stage {
+      width: min(960px, 100%);
+      background: var(--panel);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      overflow: hidden;
+    }
+    video {
+      display: block;
+      width: 100%;
+      height: auto;
+      background: #000;
+      vertical-align: top;
+    }
+    .actions {
+      width: min(960px, 100%);
+      margin-top: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Umuganura demo</h1>
+    <p>Walkthrough of the live platform. Plays in the browser — no download required.</p>
+  </header>
+  <div class="stage">
+    <video
+      controls
+      playsinline
+      preload="metadata"
+      controlslist="nodownload noplaybackrate"
+      disablepictureinpicture
+      src="https://uwitonzeevelyne.shinyapps.io/umuganura/demo/umuganura-demo.mp4"
+    >
+      Your browser does not support HTML5 video.
+    </video>
+  </div>
+  <div class="actions">
+    <a href="https://uwitonzeevelyne.shinyapps.io/umuganura/">Open the live app</a>
+  </div>
+  <script>
+    /* Discourage right-click save on the player */
+    document.querySelector("video")?.addEventListener("contextmenu", (e) => e.preventDefault());
+  </script>
+</body>
+</html>
