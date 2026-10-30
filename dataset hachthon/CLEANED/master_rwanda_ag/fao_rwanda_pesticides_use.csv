@@ -1,0 +1,492 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note,source,dataset
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1990,1990,t,157.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1990,1990,kg/ha,0.13,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1990,1990,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1990,1990,g/Int$,0.08,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1991,1991,t,107.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1991,1991,kg/ha,0.09,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1991,1991,kg/cap,0.01,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1991,1991,g/Int$,0.05,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1992,1992,t,97.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1992,1992,kg/ha,0.08,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1992,1992,kg/cap,0.01,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1992,1992,g/Int$,0.04,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1993,1993,t,127.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1993,1993,kg/ha,0.11,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1993,1993,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1993,1993,g/Int$,0.08,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1994,1994,t,158.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1994,1994,kg/ha,0.16,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1994,1994,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1994,1994,g/Int$,0.14,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1995,1995,t,188.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1995,1995,kg/ha,0.18,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1995,1995,kg/cap,0.03,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1995,1995,g/Int$,0.14,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1996,1996,t,219.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1996,1996,kg/ha,0.2,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1996,1996,kg/cap,0.03,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1996,1996,g/Int$,0.14,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1997,1997,t,249.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1997,1997,kg/ha,0.21,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1997,1997,kg/cap,0.03,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1997,1997,g/Int$,0.15,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1998,1998,t,157.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1998,1998,kg/ha,0.13,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1998,1998,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1998,1998,g/Int$,0.09,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),1999,1999,t,152.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),1999,1999,kg/ha,0.12,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),1999,1999,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),1999,1999,g/Int$,0.08,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2000,2000,t,147.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2000,2000,kg/ha,0.11,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2000,2000,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2000,2000,g/Int$,0.07,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2001,2001,t,72.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2001,2001,kg/ha,0.05,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2001,2001,kg/cap,0.01,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2001,2001,g/Int$,0.03,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2002,2002,t,106.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2002,2002,kg/ha,0.07,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2002,2002,kg/cap,0.01,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2002,2002,g/Int$,0.04,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2003,2003,t,141.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2003,2003,kg/ha,0.09,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2003,2003,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2003,2003,g/Int$,0.06,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2004,2004,t,160.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2004,2004,kg/ha,0.1,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2004,2004,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2004,2004,g/Int$,0.07,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2005,2005,t,223.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2005,2005,kg/ha,0.14,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2005,2005,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2005,2005,g/Int$,0.09,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2006,2006,t,289.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2006,2006,kg/ha,0.19,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2006,2006,kg/cap,0.03,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2006,2006,g/Int$,0.11,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2007,2007,t,398.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2007,2007,kg/ha,0.26,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2007,2007,kg/cap,0.04,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2007,2007,g/Int$,0.15,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2008,2008,t,322.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2008,2008,kg/ha,0.2,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2008,2008,kg/cap,0.03,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2008,2008,g/Int$,0.12,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2009,2009,t,1188.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2009,2009,kg/ha,0.74,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2009,2009,kg/cap,0.12,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2009,2009,g/Int$,0.39,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2010,2010,t,954.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2010,2010,kg/ha,0.58,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2010,2010,kg/cap,0.09,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2010,2010,g/Int$,0.29,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2011,2011,t,182.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2011,2011,kg/ha,0.11,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2011,2011,kg/cap,0.02,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2011,2011,g/Int$,0.05,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2012,2012,t,926.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2012,2012,kg/ha,0.55,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2012,2012,kg/cap,0.09,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2012,2012,g/Int$,0.25,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2013,2013,t,1842.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2013,2013,kg/ha,1.08,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2013,2013,kg/cap,0.17,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2013,2013,g/Int$,0.55,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2014,2014,t,2061.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2014,2014,kg/ha,1.19,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2014,2014,kg/cap,0.18,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2014,2014,g/Int$,0.77,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2015,2015,t,2484.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2015,2015,kg/ha,1.43,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2015,2015,kg/cap,0.21,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2015,2015,g/Int$,0.88,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2016,2016,t,2027.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2016,2016,kg/ha,1.17,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2016,2016,kg/cap,0.17,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2016,2016,g/Int$,0.71,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2017,2017,t,2027.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2017,2017,kg/ha,1.17,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2017,2017,kg/cap,0.17,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2017,2017,g/Int$,0.68,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2018,2018,t,2027.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2018,2018,kg/ha,1.2,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2018,2018,kg/cap,0.16,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2018,2018,g/Int$,0.65,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2019,2019,t,2027.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2019,2019,kg/ha,1.23,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2019,2019,kg/cap,0.16,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2019,2019,g/Int$,0.64,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2020,2020,t,2027.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2020,2020,kg/ha,1.22,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2020,2020,kg/cap,0.16,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2020,2020,g/Int$,0.65,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2021,2021,t,2027.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2021,2021,kg/ha,1.13,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2021,2021,kg/cap,0.15,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2021,2021,g/Int$,0.62,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2022,2022,t,2027.0,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2022,2022,kg/ha,1.17,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2022,2022,kg/cap,0.15,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2022,2022,g/Int$,0.62,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2023,2023,t,2027.0,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2023,2023,kg/ha,1.22,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2023,2023,kg/cap,0.15,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2023,2023,g/Int$,0.62,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1357,Pesticides (total),2024,2024,t,2027.0,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5159,Use per area of cropland,1357,Pesticides (total),2024,2024,kg/ha,1.21,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5172,Use per capita,1357,Pesticides (total),2024,2024,kg/cap,0.14,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5173,Use per value of agricultural production,1357,Pesticides (total),2024,2024,g/Int$,0.59,E,Estimated value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1990,1990,t,19.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1991,1991,t,11.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1992,1992,t,25.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1993,1993,t,38.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1994,1994,t,51.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1995,1995,t,64.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1996,1996,t,77.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1997,1997,t,90.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1998,1998,t,103.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,1999,1999,t,70.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2000,2000,t,36.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2001,2001,t,69.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2002,2002,t,71.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2003,2003,t,74.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2004,2004,t,94.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2005,2005,t,70.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2006,2006,t,64.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2007,2007,t,75.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2008,2008,t,51.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2009,2009,t,95.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2010,2010,t,63.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2011,2011,t,68.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2012,2012,t,94.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2013,2013,t,333.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2014,2014,t,234.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2015,2015,t,309.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2016,2016,t,317.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2017,2017,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2018,2018,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2019,2019,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2020,2020,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2021,2021,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2022,2022,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2023,2023,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1309,Insecticides,2024,2024,t,317.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1310,Insecticides – Chlorinated Hydrocarbons,1997,1997,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1310,Insecticides – Chlorinated Hydrocarbons,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1310,Insecticides – Chlorinated Hydrocarbons,2000,2000,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,1990,1990,t,14.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,1991,1991,t,10.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,1992,1992,t,25.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,1997,1997,t,88.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,1998,1998,t,98.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2000,2000,t,30.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2003,2003,t,68.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2004,2004,t,86.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2005,2005,t,69.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2006,2006,t,49.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2007,2007,t,41.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2008,2008,t,39.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2009,2009,t,74.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2010,2010,t,50.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2011,2011,t,47.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2012,2012,t,13.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2013,2013,t,24.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2014,2014,t,38.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2015,2015,t,68.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1311,Insecticides – Organo-phosphates,2016,2016,t,53.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1312,Insecticides – Carbamates,2013,2013,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,1997,1997,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,1998,1998,t,5.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2000,2000,t,5.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2003,2003,t,4.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2004,2004,t,7.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2005,2005,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2006,2006,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2007,2007,t,32.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2008,2008,t,10.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2009,2009,t,18.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2010,2010,t,8.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2011,2011,t,19.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2012,2012,t,60.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2013,2013,t,147.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2014,2014,t,138.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2015,2015,t,132.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1313,Insecticides – Pyrethroids,2016,2016,t,207.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1314,Insecticides - Biopesticides,2015,2015,t,58.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1314,Insecticides - Biopesticides,2016,2016,t,17.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,1990,1990,t,5.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,1991,1991,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,1992,1992,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2000,2000,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2003,2003,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2004,2004,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2005,2005,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2006,2006,t,14.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2007,2007,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2008,2008,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2009,2009,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2010,2010,t,6.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2011,2011,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2012,2012,t,19.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2013,2013,t,162.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2014,2014,t,58.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2015,2015,t,51.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1315,Insecticides - nes,2016,2016,t,40.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1990,1990,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1991,1991,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1992,1992,t,13.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1993,1993,t,11.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1994,1994,t,9.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1995,1995,t,6.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1996,1996,t,4.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1997,1997,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,1999,1999,t,2.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2000,2000,t,4.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2001,2001,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2002,2002,t,2.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2003,2003,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2004,2004,t,6.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2005,2005,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2006,2006,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2007,2007,t,7.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2008,2008,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2009,2009,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2010,2010,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2011,2011,t,9.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2012,2012,t,10.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2013,2013,t,27.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2014,2014,t,9.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2015,2015,t,6.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2016,2016,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2017,2017,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2018,2018,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2019,2019,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2020,2020,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2021,2021,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2022,2022,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2023,2023,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1320,Herbicides,2024,2024,t,1.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1322,Herbicides – Triazines,2012,2012,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1322,Herbicides – Triazines,2013,2013,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1323,Herbicides – Amides,1997,1997,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1323,Herbicides – Amides,2012,2012,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1325,Herbicides – Dinitroanilines,1992,1992,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1325,Herbicides – Dinitroanilines,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1325,Herbicides – Dinitroanilines,2000,2000,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1325,Herbicides – Dinitroanilines,2013,2013,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1325,Herbicides – Dinitroanilines,2014,2014,t,6.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1326,Herbicides – Urea derivates,2016,2016,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,1992,1992,t,13.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,1997,1997,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2000,2000,t,4.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2003,2003,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2004,2004,t,6.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2007,2007,t,7.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2008,2008,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2009,2009,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2010,2010,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2011,2011,t,9.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2012,2012,t,7.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2013,2013,t,25.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2014,2014,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2015,2015,t,6.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1327,Herbicides - nes,2016,2016,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1990,1990,t,138.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1991,1991,t,96.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1992,1992,t,59.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1993,1993,t,79.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1994,1994,t,98.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1995,1995,t,118.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1996,1996,t,137.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1997,1997,t,157.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1998,1998,t,54.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,1999,1999,t,81.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2000,2000,t,107.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2001,2001,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2002,2002,t,33.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2003,2003,t,64.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2004,2004,t,60.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2005,2005,t,153.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2006,2006,t,225.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2007,2007,t,316.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2008,2008,t,271.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2009,2009,t,1091.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2010,2010,t,889.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2011,2011,t,105.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2012,2012,t,816.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2013,2013,t,1480.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2014,2014,t,1818.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2015,2015,t,2169.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2016,2016,t,1709.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2017,2017,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2018,2018,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2019,2019,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2020,2020,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2021,2021,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2022,2022,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2023,2023,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1331,Fungicides and Bactericides,2024,2024,t,1709.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,1997,1997,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,1998,1998,t,16.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2000,2000,t,10.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2003,2003,t,15.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2004,2004,t,8.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2009,2009,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2010,2010,t,16.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2011,2011,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2012,2012,t,14.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2013,2013,t,8.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2014,2014,t,56.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2015,2015,t,27.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1332,Fung & Bact – Inorganics,2016,2016,t,16.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,1990,1990,t,138.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,1991,1991,t,96.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,1992,1992,t,57.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,1997,1997,t,154.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,1998,1998,t,37.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2000,2000,t,96.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2003,2003,t,46.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2004,2004,t,49.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2005,2005,t,152.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2006,2006,t,217.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2007,2007,t,310.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2008,2008,t,270.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2009,2009,t,1043.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2010,2010,t,801.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2011,2011,t,100.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2012,2012,t,746.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2013,2013,t,1413.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2014,2014,t,1717.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2015,2015,t,1954.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1333,Fung & Bact – Dithiocarbamates,2016,2016,t,1627.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,1990,1990,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,1991,1991,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,1992,1992,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,1997,1997,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,1998,1998,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2000,2000,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2003,2003,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2004,2004,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2006,2006,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2007,2007,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2008,2008,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2009,2009,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2010,2010,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2011,2011,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2012,2012,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2013,2013,t,12.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2014,2014,t,7.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2015,2015,t,12.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1334,Fung & Bact – Benzimidazoles,2016,2016,t,5.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2000,2000,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2003,2003,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2004,2004,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2005,2005,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2006,2006,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2007,2007,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2009,2009,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2010,2010,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2012,2012,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2013,2013,t,12.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2014,2014,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1335,"Fung & Bact – Triazoles, diazoles",2016,2016,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1336,"Fung & Bact – Diazines, morpholines",2000,2000,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,1997,1997,t,2.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2000,2000,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2003,2003,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2004,2004,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2005,2005,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2006,2006,t,8.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2007,2007,t,4.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2008,2008,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2009,2009,t,45.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2010,2010,t,70.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2011,2011,t,3.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2012,2012,t,53.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2013,2013,t,35.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2014,2014,t,37.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2015,2015,t,175.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1337,Fung & Bact - nes,2016,2016,t,59.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1990,1990,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1991,1991,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1992,1992,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1993,1993,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1994,1994,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1995,1995,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1996,1996,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1997,1997,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1998,1998,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,1999,1999,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2000,2000,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2001,2001,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2002,2002,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2003,2003,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2004,2004,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2005,2005,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2006,2006,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2007,2007,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2008,2008,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2009,2009,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2010,2010,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2011,2011,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2012,2012,t,5.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2013,2013,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2014,2014,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2015,2015,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2016,2016,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2017,2017,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2018,2018,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2019,2019,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2020,2020,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2021,2021,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2022,2022,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2023,2023,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1341,Plant Growth Regulators,2024,2024,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1990,1990,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1991,1991,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1992,1992,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1993,1993,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1994,1994,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1995,1995,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1996,1996,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1997,1997,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,1999,1999,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2000,2000,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2001,2001,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2002,2002,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2003,2003,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2004,2004,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2005,2005,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2006,2006,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2007,2007,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2008,2008,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2009,2009,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2010,2010,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2011,2011,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2012,2012,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2013,2013,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2014,2014,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2015,2015,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2016,2016,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2017,2017,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2018,2018,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2019,2019,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2020,2020,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2021,2021,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2022,2022,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2023,2023,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1345,Rodenticides,2024,2024,t,0.0,I,Value imputed by a receiving agency,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1346,Rodenticides – Anti-coagulants,1998,1998,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1346,Rodenticides – Anti-coagulants,2000,2000,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1346,Rodenticides – Anti-coagulants,2013,2013,t,1.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1346,Rodenticides – Anti-coagulants,2014,2014,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1346,Rodenticides – Anti-coagulants,2015,2015,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+RP,Pesticides Use,646,Rwanda,5157,Agricultural Use,1346,Rodenticides – Anti-coagulants,2016,2016,t,0.0,A,Official value,,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv

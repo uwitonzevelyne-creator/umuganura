@@ -1,0 +1,54 @@
+Table 0,Summary of Seasonal Agricultural Survey Main indicators,source,dataset,year,season,downloaded_at
+Table 1,List of strata,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 2,Classification of potential land for agriculture  per district (ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 3,Share (in percentage) of area occupied by agricultural strata within districts,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 4,Selected segments per district,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 5,Agricultural land use for potential arable land per district (Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 6.1,"Season A, Cultivated area by crop type by province (ha)",NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 6.2,"Season B, Cultivated area by crop type by province (ha)",NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 6.3,"Season C, Cultivated area by crop type by province (ha)",NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 7.1,Season A_Harvested area by crop type Per Province (Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 7.2,Season B_Harvested area by crop type per Province (Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 8,Average plot size by cropping system per district (In sqm),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 9.1,Season A_Production of main crops by Province (MT),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 9.2,Season B_Production of main crops by Province (MT),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 9.3,Season C_Production of main crops by Province (MT),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 10.1,Season A_Yield of Main crops by Province,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 10.2,Season B_Yield of Main crops by Province,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 10.3,Season C_Yield of Main crops by Province,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 11.1,Sowing dates per crop (Percentage) in Segments,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 11.2,Sowing dates per crop (Percentage) for Large Scale farmers,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 11.3,Sowing dates per District (Percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 12.1,Percentage of plots with number of crops per plot by District,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 12.2,Share of pure and mixed crop in agricultural land per district (in percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 13.1,Type of seeds used by district (Percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 13.2,Type of seeds used by crop (Percentage) in segments,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 13.3,Type of seeds used by crop (Percentage) for Large Scale Farmers,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 13.4,Source of improved seeds by district (Percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 13.5,Source of improved seeds by crop (Percentage) in Segments,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 13.6,Source of improved seeds by crop (Percentage) for Large Scale Farmers,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 14.1,Percentage of plots with organic fertilizer use per district,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 14.2,Percentage of plots with inorganic fertilizer use per district,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 14.3,Types of inorganic fertilizers use per district (in percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 15.1,Percentage of plots with pesticides use per district,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 15.2,Type of pesticides used by District (in percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 16.1,Use of Irrigation per district (Percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 16.2,Types of irrigation used by district (in percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 16.3,Types of irrigation used by crop type (in percentage) in segments,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 16.4,Types of irrigation used by crop type (in percentage) for Large Scale Farmers,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 16.5,Source of used water for irrigation per district (in percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 17.1,Percentage of plot with Anti-erosion activities use per District,NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 17.2,Types of anti-erosion activities by district (Percentages),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 17.3,Degree of erosion per district (Percentage),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Table 18,Gross Added value (Rwf per ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 1,Season A_Cultivated area by crop type by district (Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 2,Season B_Cultivated area by crop type by district (Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 3,Cultivated area by crop type by district (Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 4,Season A_Harvested area by crop type by district(Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 5,Harvested area by crop type by district(Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 6,Season A_Production of main crops by District (MT),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 7,SeasonB_ Production of main crops by District (MT),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 8,Season C_Production of main crops by District (MT),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 9,Season A_Yield of main crops by District (Kg/Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 10,Season B_Yield of main crops by District (Kg/Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z
+Appendix 11,Season C_Yield of main crops by District (Kg/Ha),NISR SAS publication tables,2018 Annual Tables_Final (1)::Summary,2018,Annual,2026-09-19T00:08:34Z

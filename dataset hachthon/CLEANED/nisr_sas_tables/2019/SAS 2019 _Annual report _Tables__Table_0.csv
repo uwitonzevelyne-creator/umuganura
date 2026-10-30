@@ -1,0 +1,123 @@
+SAS main indicators,col_2,SAS 2017,col_4,col_5,SAS 2018,col_7,col_8,SAS 2019,col_10,col_11,source,dataset,year,season,downloaded_at
+,,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+1,Cultivated area for major crops (Ha),,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Maize,210609,85130,-,218179,78151,-,215159,73139,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sorghum,29702,112694,-,27151,116986,-,30467,131383,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Paddy rice,16922,17283,-,16938,16739,-,14671,18225,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Wheat,3313,7448,-,4490,7735,-,5487,7747,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cassava,219845,164529,-,194717,188485,-,195135,187511,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sweet potato,87725,85200,7609,87456,79983,5683,97639,80919,5331,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Irish potato,38351,45923,8526,50836,60644,7740,49728,49244,8618,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,35321,22028,-,11406,19287,-,12695,15469,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana,237849,226472,-,224053,232420,-,253996,236417,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cooking banana,96571,93549,-,85524,90175,,86707,81010,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Dessert banana,35430,32575,-,30110,34153,,32036,37398,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana for beer,105847,100348,-,111213,108091,,135252,118009,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Bean,268095,276435,3256,287218,269105,885,299443,282099,1128,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Pea,9373,10298,103,15121,10612,228,17658,6859,255,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Groundnut,25004,20451,-,20474,20983,-,23929,19990,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Soybean,22268,30486,307,24011,30431,351,24593,21543,559,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Vegetables,19969,19010,3525,13794,12480,3017,15012,14976,3744,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Fruits,6551,6844,-,5975,6677,-,8383,7454,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+2,Harvested area for major crops (Ha),,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Maize,210609,85130,-,218179,78151,-,215159,73139,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sorghum,29702,112694,-,27151,116986,-,30467,131383,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Paddy rice,16922,17283,-,16938,15842,-,14671,18225,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Wheat,3313,7448,-,4490,7735,-,5487,7747,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cassava,219845,164529,-,35897,56216,-,36960,44667,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sweet potato,87725,85200,7609,87456,79983,5683,97639,80919,5331,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Irish potato,38351,45923,8526,50836,60644,7740,49728,49244,8618,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,35321,22028,-,11411,19287,-,12695,15469,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana,-,-,-,61976,63140,-,82523,74733,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cooking banana,-,-,-,21389,19767,,25340,20155,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Dessert banana,-,-,-,5165,7355,,8342,10517,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana for beer,105847,100348,-,35397,36018,,48841,44060,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Bean,268095,276435,3256,287218,269105,885,299443,282099,1128,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Pea,9373,10298,103,15121,10612,228,17658,6859,255,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Groundnut,25004,20451,-,20474,20983,-,23929,19990,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Soybean,22268,30486,307,24011,30431,351,24593,21543,559,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Vegetables,19969,19010,3525,13649,12480,3017,14801,14972,3744,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Fruits,6551,6844,-,4263,4522,-,6585,5623,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,SAS main indicators,SAS 2017,,,SAS 2018,,,SAS 2019,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+3,Crop area under permanent crop (%),,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana,,,,17.3,,,18.8,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Coffee,,,,2.4,,,3.5,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Tea,,,,2.6,,,2.5,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Fruits,,,,0.5,,,0.6,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Pasture,,,,8.9,,,8.3,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+4,Production for major crops (MT),,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Maize,324368,85912,-,332670,91534,-,331090,90128,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sorghum,41662,118310,-,36581,118111,-,37584,122042,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Paddy Rice,55217,64715,-,57934,55946,-,59286,72291,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Wheat,3651,7224,-,5950,7525,-,7082,8605,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cassava,451362,590481,-,486440,640759,-,523117,658708,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sweet potato,574500,483898,23966,661583,498790,26358,674257,546788,26539,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Irish potato,378906,398934,69462,439512,396064,80487,468931,422266,82211,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,129630,93131,-,70653,97331,-,71104,100700,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana,985485,753522,-,952684,817013,-,1020141,830491,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cooking banana,415868,315481,-,406044,353652,-,456351,364566,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Dessert banana,113032,111312,-,112283,117057,-,112937,128273,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana for beer,456585,326729,-,434356,346304,-,450853,354930,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Beans,224233,226131,3810,251189,233540,1027,252569,230744,938,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Peas,6768,5600,55,9001,5689,137,9115,6136,149,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Groundnut,11873,8805,-,12546,9734,-,9362,10200,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Soybean,10686,12925,192,12156,10427,227,13638,10588,299,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Vegetables,133118,155476,30305,162938,145272,40417,158927,155506,36072,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Fruits,54940,16378,414,35883,17711,,48791,29002,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+5,Yield for major crops (Kg/ha),,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Maize,1540,1009,-,1525,1171,-,1647,1183,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sorghum,1403,1050,-,1347,1010,-,1234,954,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Paddy Rice,3263,3744,-,3420,3532,-,4041,4008,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Wheat,1102,970,-,1325,973,-,1291,1111,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cassava,2053,3589,-,13540,11398,-,14153,14842,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Sweet potato,6549,5680,3149,7565,6236,4638,6918,6757,4979,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Irish potato,9880,8687,8147,8646,6531,10399,9953,8688,9540,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,3670,4228,-,6194,5047,-,5601,6510,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana,-,-,-,15378,12940,,12362,11113,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Cooking banana,-,-,-,19,18970,17891,18,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Dessert banana,-,-,-,21.7,21693,15915,13.5,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Banana for beer,-,-,-,12.3,12271,9615,9.2,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Beans,836,818,1170,875,868,1160,891,841,831,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Peas,722,544,532,595,536,600,516,895,585,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Ground nuts,475,431,-,613,464,-,391,510,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Soya beans,480,424,627,506,343,646,555,501,535,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Vegetables,6666,8179,8598,11938,11641,-,10738,10386,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Fruits,8675,2393,26736,8418,3916,-,7409,5373,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,,SAS 2017,,,SAS 2018,,,SAS 2019,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+6,Share of pure crop in agricultural land,,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,26.6,26.7,78.9,36,32,78,23.3,34,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,95.7,89.5,-,95.3,96.6,-,97.6,98.3,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+7,Percentage of plots with improved seeds,-,-,-,-,-,-,11,6,13,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+8,Percentage of plots with organic fertilizer use,-,-,-,-,-,-,52.8,43.8,66.7,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+9,Percentage of plots with inorganic fertilizers use,-,-,-,-,-,-,26,21,43,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+10,Percentage of plots with pesticides use,-,-,-,-,-,-,18.1,14.7,42.3,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+11,Percentage of irrigated plots,-,-,-,-,-,-,3.4,3,26,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+12,Percentage of plots protected against erosion,-,-,-,-,-,-,72.4,71.8,85.9,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+13,Percentage of farmers who used improved seeds,-,-,-,-,-,-,22.4,11.8,14.6,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+14,Percentage of farmers who used organic fertilizer,-,-,-,-,-,-,53.3,47,67,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+15,Percentage of farmers who used inorganic fertilizers,-,-,-,-,-,-,26.1,23.1,42.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+16,Percentage of farmers who used pesticides,-,-,-,-,-,-,17.6,15,42,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+17,Percentage of farmers who practiced irrigation,-,-,-,-,-,-,3.1,3.5,26.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+18,Percentage of farmers who practiced anti-erosion activities,-,-,-,-,-,-,72.5,74,86,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+19,Percentage of land area sown with improved seeds,-,-,-,-,-,-,10.9,6,12,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+20,Percentage of fertilized land with organic fertilizer,-,-,-,-,-,-,57.2,46.5,70.6,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+21,Percentage of fertilized land with inorganic fertilizer,-,-,-,-,-,-,26.3,21,56,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+22,Percentage of land with pesticides application,-,-,-,-,-,-,17.1,14.2,58.9,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+23,Percentage of irrigated agricultural land,-,-,-,-,-,-,2.8,3,21,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+24,Percentage of land protected against erosion,-,-,-,-,-,-,76.3,76,86.6,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+25,"Total land area (,000Ha)",-,-,-,-,-,-,2377,2377,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+26,"Agriculture land (,000Ha)",-,-,-,-,-,-,1411,1415,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+27,Percentage of agricultural area,-,-,-,-,-,-,59.4,59.5,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+28,Arable land,,,,,,,1149,1139,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+29,Physical cultivated land,,,,,,,1114,1106.7,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+30,"Area under permanent crops (,000Ha)",-,-,-,-,-,-,514,496,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+31,"Area under permanent pasture (,000Ha)",-,-,-,-,-,-,147,151,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+32,"Modern irrigated agricultural land (,000Ha)",-,-,-,-,-,-,18,21,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+33,"Area under seasonal crops(,000Ha)",-,-,-,-,-,-,1041,1025,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+34,"Temporary fallow land(,000Ha)",-,-,-,-,-,-,108,115,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+35,"Temporarily meadow and pasture(,000Ha)",-,-,-,-,-,-,8,8,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+36,Agriculture Gross Value Added / Ha at 2014 constant  prices (Rwf/ha),2014/2015,,,2015/2016,,2016/2017,,2017/2018,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+,,708621,,,736679,,800313,,850499,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS  2017, 2018 and 2019; National accounts 2015,2016,2017and 2018",,,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 0,2019,Annual,2026-09-19T00:08:34Z

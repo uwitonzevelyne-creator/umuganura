@@ -1,0 +1,22 @@
+crop,Government (MINAGRI/RAB/District),col_3,Recognized seed multipliers,col_5,Agro dealers,col_7,NGOs,col_9,Market,col_11,Agriculture cooperatives,col_13,Other sources,col_15,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season A,Season B,Season A,Season B,Season A,Season B,Season A,Season B,Season A,Season B,Season A,Season B,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Fruits,59.52,43.59,40.48,41.03,0,5.13,0,1.28,0,7.69,0,0,0,1.28,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Vegetables,0,3.33,0.76,2.22,22.73,15.56,0.76,22.22,57.58,56.67,0,0,18.18,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Other crops,57.89,65.85,5.26,26.83,5.26,2.44,0,0,15.79,4.88,0,0,15.79,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Other cereals,0,0,0,0,0,0,0,0,0,100,0,0,100,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Fodder crops,50,72.73,16.67,3.03,16.67,21.21,0,3.03,11.11,0,0,0,5.56,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Maize,42.11,64.39,8.42,0.76,46.32,27.27,1.75,0.76,0,4.55,1.4,0,0,2.27,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Paddy rice,10.17,5.88,79.66,82.35,6.78,1.47,0,0,0,0,3.39,0,0,10.29,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Wheat,0,100,0,0,87.5,0,0,0,0,0,0,0,12.5,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Bush bean,29.17,34.55,4.17,20,8.33,9.09,50,10.91,0,0,0,0,8.33,25.45,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Climbing bean,50,100,50,0,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Pea,0,,0,,0,,0,,100,,0,0,0,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Irish potato,27.27,20,18.18,10,0,0,9.09,0,0,0,0,0,45.45,70,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Sweet potato,0,100,100,0,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Soybean,72.22,55.56,0,0,5.56,0,0,33.33,0,11.11,0,0,22.22,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Cassava,100,100,0,0,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Cooking banana,10,71.43,90,19.05,0,4.76,0,4.76,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Dessert banana,30.77,50,69.23,41.67,0,0,0,8.33,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Banana for beer,75,20,25,80,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+Overall,32.39,42,19.89,22.5,25.99,12.13,2.7,5.98,11.93,11.78,0.85,0,6.25,5.62,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z
+2018 Seasonal Agricultural Survey,,,,,,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.6,2018,Annual,2026-09-19T00:08:34Z

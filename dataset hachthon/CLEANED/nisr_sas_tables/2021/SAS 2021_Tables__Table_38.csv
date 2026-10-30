@@ -1,0 +1,20 @@
+Crop,Government (MINAGRI/RAB/NAEB),col_3,col_4,Recognized seed multipliers,col_6,col_7,Agro dealers,col_9,col_10,NGOs/Companies,col_12,col_13,Market,col_15,col_16,Agriculture cooperative,col_18,col_19,Other source,col_21,col_22,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Fruits,24.72,11.67,-,34.83,55,-,14.61,10,62.5,5.62,3.33,-,13.48,15,37.5,6.74,0,-,0,5,-,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Vegetables,3.5,3.64,8.8,3.25,3.03,2.7,53.25,58.79,46.2,4.25,2.42,2.6,32.5,26.36,33.7,0.25,3.03,5.8,3,2.73,0.2,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Other crops,32.22,62.21,-,25.56,15.7,-,4.44,0,100,8.89,4.07,-,13.33,9.3,-,7.78,6.98,-,7.78,1.74,-,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Taro & Yams,,0,,0,0,,0,0,,0,0,,0,100,,0,0,,0,0,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Fodder crops,33.33,55.88,,2.56,5.88,,35.9,23.53,,2.56,0,,23.08,5.88,,2.56,0,,0,8.82,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Maize,7.33,4.39,,2.36,2.95,,39.35,44.65,,43.96,40.67,,3.39,4.6,,2.96,2.33,,0.65,0.41,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Paddy rice,2.21,6.77,,39.71,30.08,,0.74,1.5,,1.47,0.75,,0,0.75,,55.88,60.15,,0,0,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Wheat,15.79,0,,0,0,,63.16,100,,10.53,0,,0,0,,10.53,0,,0,0,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Bush bean,17.65,67.14,-,8.82,4.29,16.7,38.24,4.29,33.3,19.12,18.57,-,13.24,2.86,33.3,2.94,1.43,16.7,0,1.43,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Climbing bean,31.58,38.46,,5.26,7.69,,31.58,7.69,,31.58,23.08,,0,0,,0,23.08,,0,0,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Irish potato,18.31,11.9,29.6,33.8,54.76,44.4,11.27,7.14,7.4,4.23,2.38,6.5,21.13,13.1,0.9,8.45,10.71,10.2,2.82,0,0.9,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Sweet potato,9.09,0,100,0,50,-,81.82,0,-,9.09,50,-,0,0,-,0,0,-,0,0,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Soybean,34.21,33.33,87.5,7.89,3.7,-,36.84,33.33,12.5,13.16,18.52,-,5.26,7.41,-,2.63,3.7,-,0,0,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Cooking banana,27.78,20,,50,46.67,,0,0,,5.56,6.67,,0,13.33,,5.56,6.67,,11.11,6.67,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Dessert banana,35.71,22.86,,30.95,48.57,,2.38,0,,7.14,8.57,,4.76,8.57,,7.14,2.86,,11.9,8.57,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Banana for beer,26.32,26.09,,42.11,65.22,,13.16,0,,0,4.35,,0,0,,10.53,0,,7.89,4.35,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+Cassava,32.14,30,,17.86,30,,50,10,,0,10,,0,20,,0,0,,0,0,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2021",,,,,,,,,,,,,,,,,,,,,,NISR SAS publication tables,SAS 2021_Tables::Table 38,2021,,2026-09-19T00:08:34Z

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <g fill="#ffffff">
+    <path d="M100 12c28 18 48 42 52 78 2 18-4 34-16 48l-8 10 20 54c2 6-2 12-8 12H60c-6 0-10-6-8-12l20-54-8-10C52 124 46 108 48 90 52 54 72 30 100 12z"/>
+    <circle cx="100" cy="78" r="28" fill="#0b6e4f"/>
+    <path d="M88 72c4-10 20-10 24 0 2 6-2 12-8 14v10h-8V86c-6-2-10-8-8-14z" fill="#fff"/>
+    <path d="M72 168h56l-6 18H78l-6-18z"/>
+    <path d="M64 198h72v10H64z"/>
+    <path d="M40 88c12-4 20 8 16 18-8 4-18-2-16-18zm120 0c-12-4-20 8-16 18 8 4 18-2 16-18z"/>
+    <path d="M100 118c18 0 28 10 28 22H72c0-12 10-22 28-22z"/>
+  </g>
+  <text x="100" y="228" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif" font-size="14" font-weight="700">REPUBLIC OF RWANDA</text>
+</svg>

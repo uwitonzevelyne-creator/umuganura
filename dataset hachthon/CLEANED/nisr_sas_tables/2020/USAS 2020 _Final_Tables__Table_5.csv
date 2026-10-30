@@ -1,0 +1,33 @@
+District,Total land area,Agricultural land,% of agricultural land,Arable land,Physical cultivated land,Area under seasonal crops,Area under permanent crops,Temporary fallow land,Temporarily midow and pasture,Area under permanent pasture,source,dataset,year,season,downloaded_at
+Nyarugenge,13.1,6.2,47.2,4.9,5.6,4.3,3.3,0.6,0,0,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Gasabo,42.7,19.3,45.2,17.9,17.7,16.6,7.4,1.2,0.7,0.4,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Kicukiro,16.6,5.3,32,4.5,4.4,4.2,2.4,0.3,0,0.6,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Nyanza,67.1,44.1,65.7,41.8,39.8,38.1,15.4,3.8,0.4,0.5,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Gisagara,67.3,44.4,65.9,41.4,36.4,35.5,17.4,5.9,0.1,2.2,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Nyaruguru,100.7,37.8,37.6,32,30.7,27.7,11,4.3,0.7,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Huye,58.1,32.4,55.8,30.7,29.7,28.4,13.8,2.3,0.1,0.4,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Nyamagabe,109.1,46.8,42.9,41,40.8,36.8,13.2,4.2,0.4,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Ruhango,62.6,45.1,72.1,42.3,40.5,37.8,12.6,4.4,0.7,0.2,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Muhanga,64.4,38.8,60.3,33.9,33.7,28.8,17.7,5.1,0.6,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Kamonyi,65.8,44,66.8,37.1,40.2,33.4,19.2,3.6,0.5,0.1,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Karongi,78.9,45.1,57.2,37,37.8,32,15.7,5.1,0.5,0.4,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Rutsiro,66,41.5,62.9,30,30.2,26,17.2,4,0.4,6.2,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Rubavu,33.8,23.8,70.5,22.2,22.3,21.2,5.8,1,0.5,0.1,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Nyabihu,53.6,36.3,67.8,30.7,28.2,28.1,6.1,2.6,0.1,4.2,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Ngororero,67.5,44.3,65.7,38.3,37,35.2,18.9,3.1,0.3,3.2,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Rusizi,91.4,36,39.3,33.4,34.1,32.1,13.2,1.3,0.1,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Nyamasheke,94.8,43.6,46,34.3,38.7,32.2,18,2.1,0.8,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Rulindo,56.7,37.6,66.4,33.1,32.8,30.9,12.6,2.2,0.2,1.1,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Gakenke,70.1,49,69.9,43.6,46.9,41.6,20.6,2,0.2,0.1,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Musanze,50.9,29.8,58.5,29.1,28.4,27.8,4.1,1.3,0.2,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Burera,58.4,36.8,62.9,36.4,33.8,33.5,5.3,3,0.2,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Gicumbi,82.5,50.4,61.2,45.6,42.7,40.3,9.6,5.4,1,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Rwamagana,65.3,45.9,70.2,40.5,40.3,37.6,23.1,2.9,0.4,2.7,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Nyagatare,191.1,145.9,76.3,70,70.6,68,89.7,2,0.3,73.3,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Gatsibo,153.6,73.5,47.9,59.2,62.4,56.8,37.7,2.3,0.1,8.8,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Kayonza,179.2,93.3,52.1,62.3,55.1,53,47,9.2,0.1,29,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Kirehe,114.9,70.2,61.1,62.4,60.7,57.7,28.7,4.8,0.1,4.8,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Ngoma,80.5,53.6,66.5,48.3,47.1,44.2,23.8,4.1,0.2,2.3,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+Bugesera,120.4,74.1,61.5,62.7,56.1,52.2,23.4,10.6,0.6,7.4,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+National,2377.1,1394.9,58.7,1146.6,1124.6,1042.1,554.1,104.5,10.6,147.9,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2020",,,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 5,2020,,2026-09-19T00:08:34Z

@@ -1,0 +1,17 @@
+Table 65:,"Estimates of total area by major crop at the national level from the SAS 2021/22 Season B data, with standard error, CV, 95% confidence interval, design effect and number of sample observations",col_3,col_4,col_5,col_6,col_7,col_8,source,dataset,year,season,downloaded_at
+Crop name,Estimate,SE,CV,95% Confidence Interval,,DEFF,No. observations (plots),NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+,,,,Lower,Upper,,,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Maize,81339,3250.7,0.04,74961,87718,0.023,3594,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Sorghum,139793,5658.2,0.04,128690,150895,1.455,2831,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Beans,268634,6111,0.023,256643,280625,1.09,7216,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Irish potato,52858,3301.4,0.062,46380,59336,0.809,1667,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Sweet potato,92056,3278.4,0.036,85623,98489,2.502,2324,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Taro,19054,1088.5,0.057,16918,21190,1.645,1048,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Soybean,37251,1771.3,0.048,33775,40726,0.024,1650,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Vegetables,15621,1317.7,0.084,13035,18206,0.794,575,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Cooking banana,73554,3617.4,0.049,66456,80652,1.265,3291,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Dessert banana,37511,1664.9,0.044,34244,40778,1.269,3258,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Banana for beer,102256,3881.9,0.038,94639,109873,1.258,3664,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Cassava,152470,4163.4,0.027,144300,160639,1.293,5739,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+Fruits,9856,1671,0.17,6577,13135,0.326,420,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2022",,,,,,,,NISR SAS publication tables,SAS 2022_Tables_0::Table 65,2022,,2026-09-19T00:08:34Z

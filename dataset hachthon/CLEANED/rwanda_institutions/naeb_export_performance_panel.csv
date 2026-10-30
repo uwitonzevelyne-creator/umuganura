@@ -1,0 +1,15 @@
+fiscal_year,commodity,metric,value,unit,source_note,source,dataset,downloaded_at
+2018/2019,Tea,production_kg,30443865,kg,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2018/2019,Tea,export_kg,30573263,kg,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2018/2019,Tea,export_usd,83552108,USD,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2018/2019,Coffee,production_kg,22385838,kg,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2018/2019,Coffee,export_kg,21654088,kg,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2018/2019,Coffee,export_usd,68778324,USD,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2018/2019,Horticulture,export_kg,37343332,kg,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2018/2019,Horticulture,export_usd,27174785,USD,NAEB Annual Report 2018-2019,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2023/2024,Coffee,export_mt,16479,MT,NAEB Annual Report 2023-2024,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2023/2024,Coffee,export_usd,78700000,USD,NAEB Annual Report 2023-2024,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2023/2024,Horticulture,export_mt,97165,MT,NAEB Annual Report 2023-2024,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2023/2024,Horticulture,export_usd,75122956,USD,NAEB Annual Report 2023-2024,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2023/2024,Traditional_tea_coffee_pyrethrum,export_usd,201658020,USD,NAEB Annual Report 2023-2024,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z
+2023/2024,All_agri_exports,export_usd,839212099,USD,NAEB Annual Report 2023-2024,NAEB,naeb_export_performance_panel,2026-09-19T01:09:24Z

@@ -1,0 +1,16 @@
+Table 1:,List of Rwanda Land cover classes,col_3,col_4,source,dataset,year,season,downloaded_at
+Code,Land cover class name,Area (Ha),Percentage share,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+1,Intensive Tea plantations,17821,0.7,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+1.1,Hillside agricultural land,1343933,53.1,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+2.1,Non-rice agricultural wetland,55807,2.2,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+2.2,Paddy rice wetland,21848,0.9,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+2.3,Non cropped wetlands,37743,1.5,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+3,Rangeland,144490,5.7,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+4.1,Urban settlements,31612,1.2,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+4.2,Rural settlements,78928,3.1,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+5,Bare land/rocks,15404,0.6,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+6,Water bodies,135295,5.3,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+7,National parks,241455,9.5,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+8,Protected wetland,12201,0.5,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+9,Forest,395001,15.6,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2022",,,,NISR SAS publication tables,SAS 2022_Tables_0::Table 1,2022,,2026-09-19T00:08:34Z

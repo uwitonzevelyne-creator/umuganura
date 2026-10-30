@@ -1,0 +1,807 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,source,dataset
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,44.73,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,44.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,44.93,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,45.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,45.12,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2001,2001,1000 ha,9.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2002,2002,1000 ha,9.34,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2003,2003,1000 ha,9.4,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2004,2004,1000 ha,9.64,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2005,2005,1000 ha,9.77,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2006,2006,1000 ha,9.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2007,2007,1000 ha,10.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2008,2008,1000 ha,10.02,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2009,2009,1000 ha,10.21,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2010,2010,1000 ha,10.6,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2011,2011,1000 ha,10.83,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2012,2012,1000 ha,11.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2013,2013,1000 ha,11.16,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2014,2014,1000 ha,11.22,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,11.35,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,11.45,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,11.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,11.65,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,11.69,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,11.82,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2021,2021,1000 ha,12.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2022,2022,1000 ha,12.37,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2023,2023,1000 ha,12.78,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2024,2024,1000 ha,12.91,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1992,1992,1000 ha,2.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1993,1993,1000 ha,2.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1994,1994,1000 ha,2.02,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1995,1995,1000 ha,2.04,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1996,1996,1000 ha,2.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1997,1997,1000 ha,2.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1998,1998,1000 ha,2.12,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1999,1999,1000 ha,2.14,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2000,2000,1000 ha,2.18,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2001,2001,1000 ha,3.17,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2002,2002,1000 ha,4.23,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2003,2003,1000 ha,4.97,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2004,2004,1000 ha,5.54,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2005,2005,1000 ha,6.1,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2006,2006,1000 ha,6.5,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2007,2007,1000 ha,7.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2008,2008,1000 ha,7.36,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2009,2009,1000 ha,7.73,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2010,2010,1000 ha,8.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2011,2011,1000 ha,8.35,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2012,2012,1000 ha,8.64,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2013,2013,1000 ha,9.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2014,2014,1000 ha,9.82,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,10.19,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,10.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,10.9,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,10.94,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,11.05,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,13.64,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2021,2021,1000 ha,15.41,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2022,2022,1000 ha,16.89,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,52.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6970,Artificial surfaces (including urban and associated areas),2021,2021,1000 ha,83.3,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6971,Herbaceous crops,2015,2015,1000 ha,1227.72,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6971,Herbaceous crops,2016,2016,1000 ha,1227.38,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6971,Herbaceous crops,2017,2017,1000 ha,1227.29,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6971,Herbaceous crops,2018,2018,1000 ha,1226.53,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6971,Herbaceous crops,2019,2019,1000 ha,1225.9,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2001,2001,1000 ha,879.66,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2002,2002,1000 ha,952.1,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2003,2003,1000 ha,939.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2004,2004,1000 ha,926.7,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2005,2005,1000 ha,873.92,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2006,2006,1000 ha,873.13,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2007,2007,1000 ha,845.93,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2008,2008,1000 ha,839.13,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2009,2009,1000 ha,879.99,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2010,2010,1000 ha,900.14,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2011,2011,1000 ha,845.48,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2012,2012,1000 ha,826.04,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2013,2013,1000 ha,851.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2014,2014,1000 ha,864.12,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2015,2015,1000 ha,912.87,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2016,2016,1000 ha,971.33,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2017,2017,1000 ha,964.16,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2018,2018,1000 ha,986.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2019,2019,1000 ha,962.48,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2020,2020,1000 ha,976.37,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2021,2021,1000 ha,973.27,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2022,2022,1000 ha,956.48,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2023,2023,1000 ha,1006.18,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6971,Herbaceous crops,2024,2024,1000 ha,985.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1992,1992,1000 ha,1193.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1993,1993,1000 ha,1182.58,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1994,1994,1000 ha,1119.25,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1995,1995,1000 ha,1151.46,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1996,1996,1000 ha,1174.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1997,1997,1000 ha,1195.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1998,1998,1000 ha,1203.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,1999,1999,1000 ha,1223.5,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2000,2000,1000 ha,1268.18,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2001,2001,1000 ha,1296.98,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2002,2002,1000 ha,1301.11,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2003,2003,1000 ha,1301.41,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2004,2004,1000 ha,1301.61,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2005,2005,1000 ha,1301.88,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2006,2006,1000 ha,1302.12,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2007,2007,1000 ha,1299.93,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2008,2008,1000 ha,1299.7,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2009,2009,1000 ha,1304.98,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2010,2010,1000 ha,1310.92,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2011,2011,1000 ha,1316.64,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2012,2012,1000 ha,1321.21,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2013,2013,1000 ha,1326.54,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2014,2014,1000 ha,1331.87,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2015,2015,1000 ha,1331.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2016,2016,1000 ha,1311.76,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2017,2017,1000 ha,1308.05,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2018,2018,1000 ha,1292.36,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2019,2019,1000 ha,1281.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2020,2020,1000 ha,1254.04,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2021,2021,1000 ha,1260.84,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6971,Herbaceous crops,2022,2022,1000 ha,1259.96,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6971,Herbaceous crops,2020,2020,1000 ha,809.43,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6971,Herbaceous crops,2021,2021,1000 ha,797.69,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6972,Woody crops,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6972,Woody crops,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6972,Woody crops,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6972,Woody crops,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6972,Woody crops,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2001,2001,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2002,2002,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2003,2003,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2004,2004,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2005,2005,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2006,2006,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2007,2007,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2008,2008,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2009,2009,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2010,2010,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2011,2011,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2012,2012,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2013,2013,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2014,2014,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2022,2022,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2023,2023,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6972,Woody crops,2024,2024,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1992,1992,1000 ha,413.6,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1993,1993,1000 ha,424.34,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1994,1994,1000 ha,487.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1995,1995,1000 ha,501.71,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1996,1996,1000 ha,478.99,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1997,1997,1000 ha,457.3,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1998,1998,1000 ha,449.24,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,1999,1999,1000 ha,432.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2000,2000,1000 ha,388.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2001,2001,1000 ha,361.98,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2002,2002,1000 ha,357.92,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2003,2003,1000 ha,357.04,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2004,2004,1000 ha,356.46,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2005,2005,1000 ha,355.59,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2006,2006,1000 ha,354.7,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2007,2007,1000 ha,354.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2008,2008,1000 ha,353.63,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2009,2009,1000 ha,347.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2010,2010,1000 ha,341.02,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2011,2011,1000 ha,335.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2012,2012,1000 ha,330.57,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2013,2013,1000 ha,325.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2014,2014,1000 ha,319.77,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2015,2015,1000 ha,319.51,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2016,2016,1000 ha,314.7,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2017,2017,1000 ha,314.58,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2018,2018,1000 ha,324.4,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2019,2019,1000 ha,333.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2020,2020,1000 ha,357.24,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2021,2021,1000 ha,347.91,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6972,Woody crops,2022,2022,1000 ha,347.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6972,Woody crops,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6972,Woody crops,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2001,2001,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2002,2002,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2003,2003,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2004,2004,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2005,2005,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2006,2006,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2007,2007,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2008,2008,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2009,2009,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2010,2010,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2011,2011,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2012,2012,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2013,2013,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2014,2014,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2022,2022,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2023,2023,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6973,Multiple or layered crops,2024,2024,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6973,Multiple or layered crops,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6983,Grassland,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6983,Grassland,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6983,Grassland,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6983,Grassland,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6983,Grassland,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2001,2001,1000 ha,472.49,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2002,2002,1000 ha,443.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2003,2003,1000 ha,605.27,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2004,2004,1000 ha,702.2,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2005,2005,1000 ha,777.8,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2006,2006,1000 ha,801.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2007,2007,1000 ha,760.9,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2008,2008,1000 ha,755.92,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2009,2009,1000 ha,734.42,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2010,2010,1000 ha,741.2,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2011,2011,1000 ha,749.61,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2012,2012,1000 ha,771.65,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2013,2013,1000 ha,791.9,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2014,2014,1000 ha,787.54,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2015,2015,1000 ha,760.78,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2016,2016,1000 ha,745.19,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2017,2017,1000 ha,778.48,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2018,2018,1000 ha,730.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2019,2019,1000 ha,717.05,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2020,2020,1000 ha,673.33,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2021,2021,1000 ha,674.8,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2022,2022,1000 ha,690.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2023,2023,1000 ha,652.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6983,Grassland,2024,2024,1000 ha,647.74,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1992,1992,1000 ha,134.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1993,1993,1000 ha,134.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1994,1994,1000 ha,134.31,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1995,1995,1000 ha,137.75,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1996,1996,1000 ha,137.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1997,1997,1000 ha,136.84,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1998,1998,1000 ha,136.19,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,1999,1999,1000 ha,136.36,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2000,2000,1000 ha,136.44,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2001,2001,1000 ha,135.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2002,2002,1000 ha,133.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2003,2003,1000 ha,132.76,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2004,2004,1000 ha,132.64,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2005,2005,1000 ha,132.59,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2006,2006,1000 ha,132.53,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2007,2007,1000 ha,132.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2008,2008,1000 ha,132.24,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2009,2009,1000 ha,132.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2010,2010,1000 ha,132.02,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2011,2011,1000 ha,132.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2012,2012,1000 ha,131.93,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2013,2013,1000 ha,131.99,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2014,2014,1000 ha,132.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2015,2015,1000 ha,132.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2016,2016,1000 ha,136.26,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2017,2017,1000 ha,136.66,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2018,2018,1000 ha,137.23,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2019,2019,1000 ha,137.44,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2020,2020,1000 ha,137.45,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2021,2021,1000 ha,137.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6983,Grassland,2022,2022,1000 ha,137.59,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6983,Grassland,2020,2020,1000 ha,607.93,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6983,Grassland,2021,2021,1000 ha,602.64,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6974,Tree-covered areas,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6974,Tree-covered areas,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6974,Tree-covered areas,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6974,Tree-covered areas,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6974,Tree-covered areas,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2001,2001,1000 ha,961.98,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2002,2002,1000 ha,933.4,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2003,2003,1000 ha,787.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2004,2004,1000 ha,700.47,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2005,2005,1000 ha,673.44,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2006,2006,1000 ha,648.35,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2007,2007,1000 ha,709.02,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2008,2008,1000 ha,707.86,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2009,2009,1000 ha,688.76,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2010,2010,1000 ha,665.47,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2011,2011,1000 ha,703.65,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2012,2012,1000 ha,693.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2013,2013,1000 ha,644.47,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2014,2014,1000 ha,627.51,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2015,2015,1000 ha,610.87,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2016,2016,1000 ha,573.86,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2017,2017,1000 ha,547.29,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2018,2018,1000 ha,583.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2019,2019,1000 ha,617.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2020,2020,1000 ha,648.37,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2021,2021,1000 ha,642.84,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2022,2022,1000 ha,651.49,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2023,2023,1000 ha,636.74,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6974,Tree-covered areas,2024,2024,1000 ha,658.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1992,1992,1000 ha,342.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1993,1993,1000 ha,342.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1994,1994,1000 ha,342.66,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1995,1995,1000 ha,287.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1996,1996,1000 ha,284.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1997,1997,1000 ha,282.65,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1998,1998,1000 ha,281.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,1999,1999,1000 ha,279.49,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2000,2000,1000 ha,278.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2001,2001,1000 ha,277.69,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2002,2002,1000 ha,281.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2003,2003,1000 ha,282.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2004,2004,1000 ha,282.88,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2005,2005,1000 ha,283.75,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2006,2006,1000 ha,283.69,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2007,2007,1000 ha,286.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2008,2008,1000 ha,287.36,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2009,2009,1000 ha,288.83,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2010,2010,1000 ha,288.7,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2011,2011,1000 ha,288.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2012,2012,1000 ha,288.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2013,2013,1000 ha,288.27,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2014,2014,1000 ha,287.11,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2015,2015,1000 ha,287.14,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2016,2016,1000 ha,299.87,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2017,2017,1000 ha,302.45,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2018,2018,1000 ha,306.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2019,2019,1000 ha,308.38,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2020,2020,1000 ha,308.96,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2021,2021,1000 ha,309.8,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6974,Tree-covered areas,2022,2022,1000 ha,309.53,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6974,Tree-covered areas,2020,2020,1000 ha,451.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6974,Tree-covered areas,2021,2021,1000 ha,586.78,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6975,Mangroves,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6975,Mangroves,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6975,Mangroves,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6975,Mangroves,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6975,Mangroves,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2001,2001,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2002,2002,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2003,2003,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2004,2004,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2005,2005,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2006,2006,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2007,2007,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2008,2008,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2009,2009,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2010,2010,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2011,2011,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2012,2012,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2013,2013,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2014,2014,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2015,2015,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2016,2016,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2017,2017,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2018,2018,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2019,2019,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2020,2020,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2021,2021,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2022,2022,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2023,2023,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6975,Mangroves,2024,2024,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1992,1992,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1993,1993,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1994,1994,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1995,1995,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1996,1996,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1997,1997,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1998,1998,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,1999,1999,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2000,2000,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2001,2001,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2002,2002,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2003,2003,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2004,2004,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2005,2005,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2006,2006,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2007,2007,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2008,2008,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2009,2009,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2010,2010,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2011,2011,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2012,2012,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2013,2013,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2014,2014,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2015,2015,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2016,2016,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2017,2017,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2018,2018,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2019,2019,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2020,2020,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2021,2021,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6975,Mangroves,2022,2022,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6975,Mangroves,2020,2020,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6975,Mangroves,2021,2021,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6976,Shrub-covered areas,2015,2015,1000 ha,399.51,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6976,Shrub-covered areas,2016,2016,1000 ha,398.44,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6976,Shrub-covered areas,2017,2017,1000 ha,397.58,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6976,Shrub-covered areas,2018,2018,1000 ha,396.76,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6976,Shrub-covered areas,2019,2019,1000 ha,396.23,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2001,2001,1000 ha,5.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2002,2002,1000 ha,3.47,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2003,2003,1000 ha,5.13,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2004,2004,1000 ha,9.37,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2005,2005,1000 ha,14.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2006,2006,1000 ha,18.72,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2007,2007,1000 ha,23.48,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2008,2008,1000 ha,33.12,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2009,2009,1000 ha,32.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2010,2010,1000 ha,28.5,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2011,2011,1000 ha,33.43,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2012,2012,1000 ha,40.42,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2013,2013,1000 ha,43.33,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2014,2014,1000 ha,50.84,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2015,2015,1000 ha,46.59,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2016,2016,1000 ha,41.53,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2017,2017,1000 ha,42.48,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2018,2018,1000 ha,32.88,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2019,2019,1000 ha,36.49,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2020,2020,1000 ha,32.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2021,2021,1000 ha,37.62,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2022,2022,1000 ha,31.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2023,2023,1000 ha,33.26,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6976,Shrub-covered areas,2024,2024,1000 ha,37.53,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1992,1992,1000 ha,210.95,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1993,1993,1000 ha,210.95,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1994,1994,1000 ha,210.94,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1995,1995,1000 ha,214.99,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1996,1996,1000 ha,214.95,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1997,1997,1000 ha,215.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1998,1998,1000 ha,215.38,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,1999,1999,1000 ha,215.94,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2000,2000,1000 ha,216.04,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2001,2001,1000 ha,215.25,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2002,2002,1000 ha,214.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2003,2003,1000 ha,213.37,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2004,2004,1000 ha,212.45,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2005,2005,1000 ha,211.55,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2006,2006,1000 ha,211.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2007,2007,1000 ha,211.27,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2008,2008,1000 ha,210.99,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2009,2009,1000 ha,210.81,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2010,2010,1000 ha,210.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2011,2011,1000 ha,210.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2012,2012,1000 ha,210.23,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2013,2013,1000 ha,210.22,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2014,2014,1000 ha,210.4,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2015,2015,1000 ha,210.34,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2016,2016,1000 ha,218.49,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2017,2017,1000 ha,219.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2018,2018,1000 ha,221.04,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2019,2019,1000 ha,221.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2020,2020,1000 ha,220.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2021,2021,1000 ha,220.9,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6976,Shrub-covered areas,2022,2022,1000 ha,220.8,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6976,Shrub-covered areas,2020,2020,1000 ha,357.23,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6976,Shrub-covered areas,2021,2021,1000 ha,265.74,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,44.52,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,53.68,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,60.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,67.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,70.58,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2001,2001,1000 ha,93.35,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2002,2002,1000 ha,81.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2003,2003,1000 ha,75.57,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2004,2004,1000 ha,73.11,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2005,2005,1000 ha,70.74,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2006,2006,1000 ha,69.11,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2007,2007,1000 ha,70.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2008,2008,1000 ha,73.77,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2009,2009,1000 ha,74.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2010,2010,1000 ha,74.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2011,2011,1000 ha,77.45,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2012,2012,1000 ha,79.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2013,2013,1000 ha,79.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2014,2014,1000 ha,80.97,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,79.54,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,78.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,78.34,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,78.02,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,76.46,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,79.52,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2021,2021,1000 ha,80.99,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2022,2022,1000 ha,80.27,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2023,2023,1000 ha,80.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2024,2024,1000 ha,79.39,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1992,1992,1000 ha,84.42,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1993,1993,1000 ha,84.42,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1994,1994,1000 ha,84.42,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1995,1995,1000 ha,84.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1996,1996,1000 ha,84.7,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1997,1997,1000 ha,84.82,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1998,1998,1000 ha,84.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1999,1999,1000 ha,86.43,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2000,2000,1000 ha,86.44,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2001,2001,1000 ha,86.47,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2002,2002,1000 ha,86.15,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2003,2003,1000 ha,85.92,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2004,2004,1000 ha,85.88,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2005,2005,1000 ha,86.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2006,2006,1000 ha,86.44,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2007,2007,1000 ha,86.13,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2008,2008,1000 ha,86.22,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2009,2009,1000 ha,86.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2010,2010,1000 ha,86.06,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2011,2011,1000 ha,86.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2012,2012,1000 ha,85.97,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2013,2013,1000 ha,85.97,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2014,2014,1000 ha,85.94,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,85.94,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,85.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,84.98,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,84.89,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,84.83,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,84.83,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2021,2021,1000 ha,84.58,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2022,2022,1000 ha,84.57,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,42.51,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2021,2021,1000 ha,37.84,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2001,2001,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2002,2002,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2003,2003,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2004,2004,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2005,2005,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2006,2006,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2007,2007,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2008,2008,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2009,2009,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2010,2010,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2011,2011,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2012,2012,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2013,2013,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2014,2014,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2022,2022,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2023,2023,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2024,2024,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1992,1992,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1993,1993,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1994,1994,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1995,1995,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1996,1996,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1997,1997,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1998,1998,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1999,1999,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2000,2000,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2001,2001,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2002,2002,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2003,2003,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2004,2004,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2005,2005,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2006,2006,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2007,2007,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2008,2008,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2009,2009,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2010,2010,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2011,2011,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2012,2012,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2013,2013,1000 ha,0.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2014,2014,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2021,2021,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2022,2022,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6978,Sparsely natural vegetated areas,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6979,Terrestrial barren land,2015,2015,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6979,Terrestrial barren land,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6979,Terrestrial barren land,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6979,Terrestrial barren land,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6979,Terrestrial barren land,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2001,2001,1000 ha,1.71,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2002,2002,1000 ha,0.56,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2003,2003,1000 ha,0.41,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2004,2004,1000 ha,0.73,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2005,2005,1000 ha,1.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2006,2006,1000 ha,1.52,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2007,2007,1000 ha,1.41,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2008,2008,1000 ha,1.3,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2009,2009,1000 ha,1.35,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2010,2010,1000 ha,1.07,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2011,2011,1000 ha,0.96,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2012,2012,1000 ha,0.81,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2013,2013,1000 ha,0.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2014,2014,1000 ha,0.77,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2015,2015,1000 ha,0.81,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2016,2016,1000 ha,0.81,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2017,2017,1000 ha,0.92,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2018,2018,1000 ha,0.77,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2019,2019,1000 ha,0.68,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2020,2020,1000 ha,0.43,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2021,2021,1000 ha,0.36,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2022,2022,1000 ha,0.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2023,2023,1000 ha,0.21,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6979,Terrestrial barren land,2024,2024,1000 ha,0.34,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1992,1992,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1993,1993,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1994,1994,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1995,1995,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1996,1996,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1997,1997,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1998,1998,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,1999,1999,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2000,2000,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2001,2001,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2002,2002,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2003,2003,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2004,2004,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2005,2005,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2006,2006,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2007,2007,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2008,2008,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2009,2009,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2010,2010,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2011,2011,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2012,2012,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2013,2013,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2014,2014,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2015,2015,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2016,2016,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2017,2017,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2018,2018,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2019,2019,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2020,2020,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2021,2021,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6979,Terrestrial barren land,2022,2022,1000 ha,0.01,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6979,Terrestrial barren land,2020,2020,1000 ha,57.67,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6979,Terrestrial barren land,2021,2021,1000 ha,2.95,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6980,Permanent snow and glaciers,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6980,Permanent snow and glaciers,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6980,Permanent snow and glaciers,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6980,Permanent snow and glaciers,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6980,Permanent snow and glaciers,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2001,2001,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2002,2002,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2003,2003,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2004,2004,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2005,2005,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2006,2006,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2007,2007,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2008,2008,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2009,2009,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2010,2010,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2011,2011,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2012,2012,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2013,2013,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2014,2014,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2015,2015,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2016,2016,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2017,2017,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2018,2018,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2019,2019,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2020,2020,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2021,2021,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2022,2022,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2023,2023,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6980,Permanent snow and glaciers,2024,2024,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1992,1992,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1993,1993,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1994,1994,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1995,1995,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1996,1996,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1997,1997,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1998,1998,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1999,1999,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2000,2000,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2001,2001,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2002,2002,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2003,2003,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2004,2004,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2005,2005,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2006,2006,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2007,2007,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2008,2008,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2009,2009,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2010,2010,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2011,2011,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2012,2012,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2013,2013,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2014,2014,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2015,2015,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2016,2016,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2017,2017,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2018,2018,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2019,2019,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2020,2020,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2021,2021,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2022,2022,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6980,Permanent snow and glaciers,2020,2020,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6980,Permanent snow and glaciers,2021,2021,1000 ha,0.0,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6981,Inland water bodies,2015,2015,1000 ha,144.96,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6981,Inland water bodies,2016,2016,1000 ha,145.3,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6981,Inland water bodies,2017,2017,1000 ha,145.34,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6981,Inland water bodies,2018,2018,1000 ha,145.3,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6981,Inland water bodies,2019,2019,1000 ha,145.82,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2001,2001,1000 ha,110.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2002,2002,1000 ha,110.33,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2003,2003,1000 ha,111.04,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2004,2004,1000 ha,111.42,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2005,2005,1000 ha,112.22,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2006,2006,1000 ha,111.89,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2007,2007,1000 ha,112.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2008,2008,1000 ha,112.49,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2009,2009,1000 ha,112.43,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2010,2010,1000 ha,112.28,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2011,2011,1000 ha,112.24,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2012,2012,1000 ha,111.49,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2013,2013,1000 ha,111.21,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2014,2014,1000 ha,110.68,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2015,2015,1000 ha,110.83,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2016,2016,1000 ha,110.68,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2017,2017,1000 ha,110.4,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2018,2018,1000 ha,111.13,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2019,2019,1000 ha,111.47,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2020,2020,1000 ha,111.72,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2021,2021,1000 ha,111.68,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2022,2022,1000 ha,111.62,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2023,2023,1000 ha,111.72,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6981,Inland water bodies,2024,2024,1000 ha,111.79,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1992,1992,1000 ha,152.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1993,1993,1000 ha,152.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1994,1994,1000 ha,152.03,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1995,1995,1000 ha,153.73,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1996,1996,1000 ha,157.48,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1997,1997,1000 ha,158.66,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1998,1998,1000 ha,160.12,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,1999,1999,1000 ha,157.13,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2000,2000,1000 ha,157.17,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2001,2001,1000 ha,156.62,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2002,2002,1000 ha,155.66,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2003,2003,1000 ha,155.84,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2004,2004,1000 ha,155.84,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2005,2005,1000 ha,155.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2006,2006,1000 ha,155.76,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2007,2007,1000 ha,155.76,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2008,2008,1000 ha,155.81,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2009,2009,1000 ha,155.74,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2010,2010,1000 ha,155.76,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2011,2011,1000 ha,155.85,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2012,2012,1000 ha,156.08,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2013,2013,1000 ha,156.09,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2014,2014,1000 ha,156.33,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2015,2015,1000 ha,156.33,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2016,2016,1000 ha,156.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2017,2017,1000 ha,156.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2018,2018,1000 ha,156.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2019,2019,1000 ha,156.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2020,2020,1000 ha,156.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2021,2021,1000 ha,156.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5008,Area from CCI_LC,6981,Inland water bodies,2022,2022,1000 ha,156.32,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6981,Inland water bodies,2020,2020,1000 ha,155.38,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6981,Inland water bodies,2021,2021,1000 ha,156.64,E,Estimated value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2001,2001,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2002,2002,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2003,2003,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2004,2004,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2005,2005,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2006,2006,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2007,2007,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2008,2008,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2009,2009,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2010,2010,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2011,2011,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2012,2012,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2013,2013,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2014,2014,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2022,2022,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2023,2023,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2024,2024,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv
+LC,Land Cover,646,Rwanda,5013,Area from WorldCover,6982,Coastal water bodies and intertidal areas,2021,2021,1000 ha,,O,Missing value,FAOSTAT (local),FAOSTAT_data_en_9-18-2026.csv

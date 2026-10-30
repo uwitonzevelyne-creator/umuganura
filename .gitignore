@@ -1,0 +1,49 @@
+# R / local session
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.Rprofile
+
+# renv (lockfile is tracked; library is not)
+renv/
+renv/library/
+packrat/
+
+# Deploy / secrets
+.rsconnect/
+rsconnect/
+*.dcf
+.env
+.env.*
+secrets/
+*_secret*
+credentials*
+
+# Dev caches and generated bridge (www/bridge/ is shipped for cold start)
+cache/
+bridge/
+
+# Raw data bloat (not needed for the public repo mirror)
+dataset hachthon/FAO/
+dataset hachthon/CLEANED/nisr_microdata/
+dataset hachthon/CLEANED/by_challenge/
+dataset hachthon/CLEANED/aquastat/
+dataset hachthon/CLEANED/world_climate/
+
+# Media / scratch
+www/screenshoots/
+www/**/*.mp4
+www/**/*.MP4
+www/**/Screen Recording*
+www/**/From Klickpin*
+reports/
+tools_*.py
+Rplots.pdf
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

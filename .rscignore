@@ -1,0 +1,38 @@
+# Keep deploy under shinyapps size limits (~1GB). App needs CLEANED master + SAS + EXTERNAL ejo + NAEB prices.
+
+# VCS / local
+.git/
+.Rproj.user/
+.Rhistory
+.Rprofile
+*.Rproj
+renv/
+renv.lock
+.renvignore
+packrat/
+
+# Huge unused raw data
+dataset hachthon/FAO/
+dataset hachthon/CLEANED/nisr_microdata/
+dataset hachthon/CLEANED/by_challenge/
+dataset hachthon/CLEANED/aquastat/
+dataset hachthon/CLEANED/world_climate/
+
+# Dev / media bloat (data/prebuilt/ ships baked RDS for shinyapps cold start)
+cache/
+bridge/
+www/**/From Klickpin*
+www/**/From Klickpin.com*
+www/Screen Recording*
+www/**/Screen Recording*
+reports/
+tools_*.py
+Rplots.pdf
+www/screenshoots/
+www/**/*.mp4
+www/**/*.MP4
+www/ejo/_ref-oneacre.mp4
+www/*.mp4
+
+# Full geojson unused at boot (global.R prefers rwanda_districts_lite.geojson)
+www/geo/rwanda_districts.geojson

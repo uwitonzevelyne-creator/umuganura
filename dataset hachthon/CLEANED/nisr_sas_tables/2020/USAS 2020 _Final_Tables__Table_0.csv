@@ -1,0 +1,114 @@
+SAS main indicators,col_2,SAS 2018,col_4,col_5,SAS 2019,col_7,col_8,SAS 2020,col_10,col_11,source,dataset,year,season,downloaded_at
+,,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+1,Cultivated area for major crops (Ha),,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Maize,218179,78151,-,215159,73139,-,221521,72918.09439999999,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sorghum,27151,116986,-,30467,131383,-,33295,136124.37077,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Paddy rice,16938,16739,-,14671,18225,-,14507,15076.610379999998,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Wheat,4490,7735,-,5487,7747,-,4187,8122.138579999999,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cassava,194717,188485,-,195135,187511,-,190447,192155.8506,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sweet potato,87456,79983,5683,97639,80919,5331,89427,84545.43219999997,5583.0652884,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Irish potato,50836,60644,7740,49728,49244,8618,51516,43949.98186100001,9028.143313899998,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Yams & Taro,11406,19287,-,12695,15469,-,18058,14565.011019999996,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana,224053,232420,-,253996,236417,-,272500,207635.0964,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cooking banana,85524,90175,,86707,81010,,106409,62053.721,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Dessert banana,30110,34153,,32036,37398,,39688,30911.087000000003,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana for beer,111213,108091,,135252,118009,,126403,114670.2884,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Bean,287218,269105,885,299443,282099,1128,362199,283103.89,2680.5065124000002,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Pea,15121,10612,228,17658,6859,255,10530,6228.989917999999,501.5191,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Groundnut,20474,20983,-,23929,19990,-,14609,21292.299240000004,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Soybean,24011,30431,351,24593,21543,559,24677,22974.2486,837.0020462,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Vegetables,13794,12480,3017,15012,14976,3744,18246.1035,15939.345680000002,5911.8437612,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Fruits,5975,6677,-,8383,7454,-,7256.2103,7824.085624999998,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+2,Harvested area for major crops (Ha),,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Maize,218179,78151,-,215159,73139,-,221521,72918.09591151134,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sorghum,27151,116986,-,30467,131383,-,33295,136124.3646770104,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Paddy rice,16938,15842,-,14671,18225,-,14507,15076.610559435881,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Wheat,4490,7735,-,5487,7747,-,4187,8122.138595450096,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cassava,35897,56216,-,36960,44667,-,41160,46509.25444721156,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sweet potato,87456,79983,5683,97639,80919,5331,89427,84545.43214915512,5583.0652884,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Irish potato,50836,60644,7740,49728,49244,8618,51516,43949.717074855085,9028.143313899998,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Yams & Taro,11411,19287,-,12695,15469,-,14450,14565.011016980745,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana,61976,63140,-,82523,74733,-,99876,79107.00965115732,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cooking banana,21389,19767,,25340,20155,,35735,22088.817984727517,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Dessert banana,5165,7355,,8342,10517,,14980,11337.364514145922,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana for beer,35397,36018,,48841,44060,,49161,45680.82715228387,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Beans,287218,269105,885,299443,282099,1128,362199,283103.9191893113,2680.5065124000002,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Pea,15121,10612,228,17658,6859,255,10530,6228.989959118391,501.5191,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Groundnut,20474,20983,-,23929,19990,-,14609,21292.29957955999,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Soybean,24011,30431,351,24593,21543,559,24677,22974.24740813706,837.0020462,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Vegetables,13649,12480,3017,14801,14972,3744,4778,15945.176113816751,5911.8437612,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Fruits,4263,4522,-,6585,5623,-,9988,4978.180892498539,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,SAS main indicators,SAS 2018,,,SAS 2019,,,SAS 2020,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+3,Crop area under permanent crop (%),,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana,17.3,,,18.8,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Coffee,2.4,,,3.5,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Tea,2.6,,,2.5,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Fruits,0.5,,,0.6,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Pasture,8.9,,,8.3,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+4,Production for major crops (MT),,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Maize,332670,91534,-,331090,90128,-,353999,94633.57625036183,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sorghum,36581,118111,-,37584,122042,-,42231,128258.08329169445,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Paddy Rice,57934,55946,-,59286,72291,-,52225,64279.47265069903,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Wheat,5950,7525,-,7082,8605,-,4138,8673.424112793697,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cassava,486440,640759,-,523117,658708,-,578545,701036.8313766082,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sweet potato,661583,498790,26358,674257,546788,26539,635007,611424.7701871968,29182.350202669288,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Irish potato,439512,396064,80487,468931,422266,82211,427471,352441.3203417548,78609.14370008405,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Yams & Taro,70653,97331,-,71104,100700,-,85414,102627.76105462373,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana,952684,817013,-,1020141,830491,-,1100082,931990.7378639273,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cooking banana,406044,353652,-,456351,364566,-,502972,410259.21248320705,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Dessert banana,112283,117057,-,112937,128273,-,120868,138090.2299905541,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana for beer,434356,346304,-,450853,354930,-,476241,383641.2953901663,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Bean,251189,233540,1027,252569,230744,938,226570,209383.28285932905,2782.272369401454,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Pea,9001,5689,137,9115,6136,149,7933,5668.221092649192,352.01790663697454,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Groundnut,12546,9734,-,9362,10200,-,5762,10541.70197780548,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Soybean,12156,10427,227,13638,10588,299,12284,10954.584601256121,516.0699301785239,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Vegetables,162938,145272,40417,158927,155506,36072,160114.24595865543,166272.08536049703,52492.26040442259,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Fruits,35883,17711,,48791,29002,-,23542,24829.556005118022,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+5,Yield for major crops (Kg/ha),,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Maize,1525,1171,-,1647,1183,-,1598.0345770309802,1297.8064644639512,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sorghum,1347,1010,-,1234,954,-,1268.3888681865624,942.2125392174964,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Paddy Rice,3420,3532,-,4041,4008,-,3599.88150747986,4263.522785661458,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Wheat,1325,973,-,1291,1111,-,988.2701498677883,1067.874428743733,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cassava,13540,11398,-,14153,14842,-,14056.031103037172,15073.06104363147,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Sweet potato,7565,6236,4638,6918,6757,4979,7100.881697639033,7231.907799684798,5226.940523748092,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Irish potato,8646,6531,10399,9953,8688,9540,8297.803642926143,8019.194292911541,8707.121826373212,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Yams & Taro,6194,5047,-,5601,6510,-,5911.192306862742,7046.184924609687,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana,15378,12940,,12362,11113,,10860.693984587953,11781.39259686063,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Cooking banana,19,18970,17891,18,,,13793.648531303006,18573.162799696453,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Dessert banana,21.7,21693,15915,13.5,,,7927.044480803194,12180.0996887994,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Banana for beer,12.3,12271,9615,9.2,,,9605.79173653669,8398.30010326303,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Beans,875,868,1160,891,841,831,625.5414754902894,739.5986726673137,1037.9651593945719,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Pea,595,536,600,516,895,585,753.3533784410536,909.9743505528837,701.9032906961561,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Groundnut,613,464,-,391,510,-,394.40626166151867,495.0945734356104,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Soybean,506,343,646,555,501,535,497.7938667829975,476.8201720234025,616.5694964803109,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Vegetables,11938,11641,-,10738,10386,-,8775.257392679876,10427.735897907054,8879.169092548478,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Fruits,8418,3916,-,7409,5373,-,4926.957497594899,4987.67653110655,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,,SAS 2018,,,SAS 2019,,,SAS 2020,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+6,Share of pure crop in agricultural land,,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Small Scale Farmers,36,32,78,23.3,34,68.6,28.328088,32.25734342961729,73.4,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+,Large Scale Farmers,95.3,96.6,-,97.6,98.3,-,96.570097,93.52078791761339,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+7,Percentage of plots with improved seeds,-,-,-,11,6,13,27.8,15.55,16.74,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+8,Percentage of plots with organic fertilizer use,-,-,-,52.8,43.8,66.7,61.85,52.4,67,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+9,Percentage of plots with inorganic fertilizers use,-,-,-,26,21,43,28,20.7,50.9,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+10,Percentage of plots with pesticides use,-,-,-,18.1,14.7,42.3,16.02,11.2,54.4,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+13,Percentage of farmers who used improved seeds,-,-,-,22.4,11.8,14.6,35.2,11.21,30.57,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+14,Percentage of farmers who used organic fertilizer,-,-,-,53.3,47,67,63.64,51.7,76.1,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+15,Percentage of farmers who used inorganic fertilizers,-,-,-,26.1,23.1,42.4,33.8,25.8,67.5,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+16,Percentage of farmers who used pesticides,-,-,-,17.6,15,42,21.17,15.3,64.1,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+17,Percentage of farmers who practiced irrigation,-,-,-,3.1,3.5,26.4,6.52,11.83,66.91,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+18,Percentage of farmers who practiced anti-erosion activities,-,-,-,72.5,74,86,88.92,87.97,94.58,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+19,Percentage of land area sown with improved seeds,-,-,-,10.9,6,12,34.3,15.214454082852985,20.476950674866412,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+20,Percentage of fertilized land with organic fertilizer,-,-,-,57.2,46.5,70.6,59.88408083937479,48.72178391909336,66.10139038229696,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+21,Percentage of fertilized land with inorganic fertilizer,-,-,-,26.3,21,56,32.07494142945798,24.033034930152475,64.35347455930886,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+22,Percentage of land with pesticides application,-,-,-,17.1,14.2,58.9,19.553661200082743,14.056652175580115,67.39122946660895,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+25,"Total land area (,000Ha)",-,-,-,2377,2377,,2377.1,2377.1,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+26,"Agriculture land (,000Ha)",-,-,-,1411,1415,-,1394.9,1394.9,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+27,Percentage of agricultural area,-,-,-,59,60,-,58.7,58.7,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+28,"Area under permanent crops (,000Ha)",-,-,-,514,496,-,554.1,591.5098,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+29,"Area under permanent pasture (,000Ha)",-,-,-,147,151,-,147.9,140.70420000000001,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+30,"Modern irrigated agricultural land (,000Ha)",-,-,-,18,21,-,19.05818,21.77352,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+31,"Area under seasonal crops(,000Ha)",-,-,-,1041,1025,-,1042.1,1068.522,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+32,"Temporary fallow land(,000Ha)",-,-,-,108,115,-,104.5,129.38819999999998,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z
+33,"Temporarily meadow and pasture(,000Ha)",-,-,-,8,8,-,10.6,13.821209999999999,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 0,2020,,2026-09-19T00:08:34Z

@@ -1,0 +1,8 @@
+Crop name,Estimate,SE,CV,95% Confidence Interval,col_6,DEFF,No. observations (plots),source,dataset,year,season,downloaded_at
+,,,,Lower,Upper,,,NISR SAS publication tables,SAS 2024_Annual Tables::Table 78,2024,Annual,2026-09-19T00:08:34Z
+Sweet potato,4429,333.2,0.075,3775,5084,1.852,634,NISR SAS publication tables,SAS 2024_Annual Tables::Table 78,2024,Annual,2026-09-19T00:08:34Z
+Irish potato,8846,1228.3,0.139,6433,11259,2.835,362,NISR SAS publication tables,SAS 2024_Annual Tables::Table 78,2024,Annual,2026-09-19T00:08:34Z
+Bush bean,2734,356.2,0.13,2034,3434,1.139,267,NISR SAS publication tables,SAS 2024_Annual Tables::Table 78,2024,Annual,2026-09-19T00:08:34Z
+Pea,527,158.7,0.301,215,839,3.888,63,NISR SAS publication tables,SAS 2024_Annual Tables::Table 78,2024,Annual,2026-09-19T00:08:34Z
+Soybean,576,213.5,0.371,157,996,2.309,67,NISR SAS publication tables,SAS 2024_Annual Tables::Table 78,2024,Annual,2026-09-19T00:08:34Z
+Vegetables,5738,536.2,0.093,4685,6792,0.451,594,NISR SAS publication tables,SAS 2024_Annual Tables::Table 78,2024,Annual,2026-09-19T00:08:34Z

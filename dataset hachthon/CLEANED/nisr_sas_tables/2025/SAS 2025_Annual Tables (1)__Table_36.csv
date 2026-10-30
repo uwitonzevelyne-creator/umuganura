@@ -1,0 +1,20 @@
+Crop,Traditional seeds,col_3,col_4,Improved seeds,col_6,col_7,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Maize,36.85,43.41,,63.15,56.59,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Paddy rice,90.02,91.68,,9.98,8.32,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Wheat,78.38,83.35,,21.62,16.65,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Irish potato,95.36,95.54,90.13,4.64,4.46,9.87,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Cassava,97.37,99.5,,2.63,0.5,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Bush bean,98.3,98.97,99.11,1.7,1.03,0.89,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Climbing bean,98.2,99.51,100,1.8,0.49,0,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Pea,96.47,95.97,95.65,3.53,4.03,4.35,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Soybean,98.28,98.56,99.96,1.72,1.44,0.04,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Cooking banana,99.82,99.95,,0.18,0.05,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Dessert banana,97.51,98.71,,2.49,1.29,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Banana for beer,98.74,98.83,,1.26,1.17,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Vegetables,63.89,63.32,45.92,36.11,36.68,54.08,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Fruits,83.57,79.13,,16.43,20.87,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Fodder crops,99.54,99.02,,0.46,0.98,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Other crops,87.83,82.49,,12.17,17.51,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+Total,85.57,93.24,84.89,14.43,6.76,15.11,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2025",,,,,,,NISR SAS publication tables,SAS 2025_Annual Tables (1)::Table 36,2025,Annual,2026-09-19T00:08:34Z

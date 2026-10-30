@@ -1,0 +1,9 @@
+Table 65:,"Estimates of total area by major crop at the national level from the SAS 2020/21 Season C data, with standard error, CV, 95% confidence interval, design effect and number of sample observations",col_3,col_4,col_5,col_6,col_7,col_8,source,dataset,year,season,downloaded_at
+Crop name,Estimate,SE,CV,95% Confidence Interval,,DEFF,No. observations (plots),NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z
+,,,,Lower,Upper,,,NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z
+Bean,3748,267,0.071,3222,4273,0.004,866,NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z
+Irish potato,9667,1034.2,0.107,7632,11701,1.37,999,NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z
+Sweet potato,5226,317.2,0.061,4602,5850,0.522,1308,NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z
+Soybean,741,183.8,0.248,380,1103,0.117,120,NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z
+Vegetables,5061,347.6,0.069,4377,5745,0.235,3973,NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2021",,,,,,,,NISR SAS publication tables,SAS 2021_Tables::Table 65,2021,,2026-09-19T00:08:34Z

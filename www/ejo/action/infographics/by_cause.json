@@ -1,0 +1,91 @@
+{
+  "overview": [
+    "ejo/action/infographics/p01.png",
+    "ejo/action/infographics/p02.png",
+    "ejo/action/infographics/p03.png",
+    "ejo/action/infographics/p04.png",
+    "ejo/action/infographics/p05.png",
+    "ejo/action/infographics/p06.png",
+    "ejo/action/infographics/p07.png"
+  ],
+  "weather": [
+    "ejo/action/infographics/p08.png",
+    "ejo/action/infographics/p09.png",
+    "ejo/action/infographics/p10.png",
+    "ejo/action/infographics/p11.png",
+    "ejo/action/infographics/p12.png",
+    "ejo/action/infographics/p13.png",
+    "ejo/action/infographics/p14.png",
+    "ejo/action/infographics/p15.png",
+    "ejo/action/infographics/p16.png",
+    "ejo/action/infographics/p17.png",
+    "ejo/action/infographics/p18.png",
+    "ejo/action/infographics/p19.png"
+  ],
+  "storage": [
+    "ejo/action/infographics/p20.png",
+    "ejo/action/infographics/p21.png",
+    "ejo/action/infographics/p22.png",
+    "ejo/action/infographics/p23.png",
+    "ejo/action/infographics/p24.png",
+    "ejo/action/infographics/p25.png",
+    "ejo/action/infographics/p26.png",
+    "ejo/action/infographics/p27.png",
+    "ejo/action/infographics/p28.png",
+    "ejo/action/infographics/p29.png",
+    "ejo/action/infographics/p30.png",
+    "ejo/action/infographics/p31.png"
+  ],
+  "handling": [
+    "ejo/action/infographics/p32.png",
+    "ejo/action/infographics/p33.png",
+    "ejo/action/infographics/p34.png",
+    "ejo/action/infographics/p35.png",
+    "ejo/action/infographics/p36.png",
+    "ejo/action/infographics/p37.png",
+    "ejo/action/infographics/p38.png",
+    "ejo/action/infographics/p39.png",
+    "ejo/action/infographics/p40.png",
+    "ejo/action/infographics/p41.png"
+  ],
+  "transport": [
+    "ejo/action/infographics/p42.png",
+    "ejo/action/infographics/p43.png",
+    "ejo/action/infographics/p44.png",
+    "ejo/action/infographics/p45.png",
+    "ejo/action/infographics/p46.png",
+    "ejo/action/infographics/p47.png",
+    "ejo/action/infographics/p48.png",
+    "ejo/action/infographics/p49.png",
+    "ejo/action/infographics/p50.png",
+    "ejo/action/infographics/p51.png"
+  ],
+  "cold": [
+    "ejo/action/infographics/p52.png",
+    "ejo/action/infographics/p53.png",
+    "ejo/action/infographics/p54.png",
+    "ejo/action/infographics/p55.png",
+    "ejo/action/infographics/p56.png",
+    "ejo/action/infographics/p57.png",
+    "ejo/action/infographics/p58.png",
+    "ejo/action/infographics/p59.png",
+    "ejo/action/infographics/p60.png",
+    "ejo/action/infographics/p61.png",
+    "ejo/action/infographics/p62.png",
+    "ejo/action/infographics/p63.png"
+  ],
+  "glut": [
+    "ejo/action/infographics/p64.png",
+    "ejo/action/infographics/p65.png",
+    "ejo/action/infographics/p66.png",
+    "ejo/action/infographics/p67.png",
+    "ejo/action/infographics/p68.png",
+    "ejo/action/infographics/p69.png",
+    "ejo/action/infographics/p70.png",
+    "ejo/action/infographics/p71.png",
+    "ejo/action/infographics/p72.png",
+    "ejo/action/infographics/p73.png",
+    "ejo/action/infographics/p74.png",
+    "ejo/action/infographics/p75.png"
+  ]
+}

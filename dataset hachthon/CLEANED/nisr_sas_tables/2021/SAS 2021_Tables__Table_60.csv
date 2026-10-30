@@ -1,0 +1,34 @@
+District,Rainwater,col_3,col_4,Water treatment,col_6,col_7,Underground,col_9,col_10,Lake / streams,col_12,col_13,Water catchment,col_15,col_16,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Nyarugenge,0,0,0,20,25,0,33.33,0,11.76,46.67,75,88.24,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Gasabo,3.45,6.67,0,10.34,0,0,37.93,33.33,17.89,48.28,46.67,81.05,0,13.33,1.05,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Kicukiro,0,0,0,15,21.74,0,35,21.74,14.29,25,56.52,85.71,25,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Nyanza,0,0,0,0,0,0,66.67,43.75,43.17,19.05,31.25,52.52,14.29,25,4.32,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Gisagara,0,3.85,0,6.9,0,0,44.83,50,77.36,44.83,38.46,22.64,3.45,7.69,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Nyaruguru,0,0,0,0,0,0,0,9.09,70,100,90.91,30,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Huye,0,0,0,5.41,0,0,10.81,34.48,65.79,62.16,51.72,34.21,21.62,13.79,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Nyamagabe,0,0,0,0,0,0,57.14,22.22,0,42.86,77.78,100,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Ruhango,2.7,0,0,2.7,3.13,0,62.16,46.88,47.46,29.73,46.88,52.54,2.7,3.13,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Muhanga,0,0,0,7.14,0,0,42.86,40,54.12,35.71,20,45.88,14.29,40,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Kamonyi,0,0,0,0,0,0,25.81,46.15,55.56,64.52,50,44.44,9.68,3.85,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Karongi,0,0,0,0,10,0,33.33,30,61.54,66.67,60,38.46,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Rutsiro,0,,0,0,,0,0,,100,0,,0,0,,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Rubavu,0,,0,0,,0,0,,100,0,,0,0,,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Nyabihu,0,,0,0,,0,100,,16.67,0,,83.33,0,,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Ngororero,0,,0,0,,0,50,,80,25,,20,25,,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Rusizi,0,0,0,8.33,0,0,0,27.27,26.67,91.67,72.73,73.33,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Nyamasheke,0,0,1.96,11.11,11.11,0,22.22,66.67,3.92,66.67,22.22,94.12,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Rulindo,2.44,5.26,3.64,7.32,10.53,9.09,19.51,21.05,61.82,48.78,57.89,20,21.95,5.26,5.45,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Gakenke,0,0,0,0,0,0,66.67,62.5,44.74,33.33,37.5,55.26,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Musanze,0,0,0,50,0,7.14,0,66.67,35.71,50,33.33,57.14,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Burera,0,0,0,0,0,0,0,100,4.17,100,0,95.83,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Gicumbi,0,0,0,17.65,33.33,0,0,33.33,14.71,82.35,33.33,85.29,0,0,0,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Rwamagana,2.94,0,0,11.76,11.36,0,14.71,18.18,55.56,38.24,38.64,34.57,32.35,29.55,9.88,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Nyagatare,1.52,2.04,0,4.55,2.04,0,3.03,8.16,19.15,75.76,44.9,78.72,15.15,42.86,2.13,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Gatsibo,0,0,0,3.85,3.45,0,26.92,17.24,45.95,50,58.62,51.35,19.23,20.69,2.7,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Kayonza,0,2.38,0,0,4.76,0,19.7,21.43,47.22,68.18,59.52,41.67,12.12,11.9,11.11,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Kirehe,4.08,0,2.27,2.04,0,0,18.37,19.3,75,61.22,77.19,13.64,14.29,3.51,9.09,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Ngoma,5.88,23.53,0,17.65,20.59,0,35.29,17.65,50,11.76,32.35,43.55,29.41,5.88,6.45,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+Bugesera,2,2.22,0,1,2.22,0,28,37.78,30.95,58,42.22,66.67,11,15.56,2.38,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+National,1.48,2.47,0.25,5.53,5.47,0.37,25.64,27.87,43.82,53.71,51.15,53.29,13.63,12.87,2.27,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2021",,,,,,,,,,,,,,,,NISR SAS publication tables,SAS 2021_Tables::Table 60,2021,,2026-09-19T00:08:34Z

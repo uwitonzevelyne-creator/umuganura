@@ -1,0 +1,17 @@
+Table 64:,"Estimates of total area by major crop at the national level from the SAS 2020/21 Season B data, with standard error, CV, 95% confidence interval, design effect and number of sample observations",col_3,col_4,col_5,col_6,col_7,col_8,source,dataset,year,season,downloaded_at
+Crop name,Estimate,SE,CV,95% Confidence Interval,,DEFF,No. observations (plots),NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+,,,,Lower,Upper,,,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Maize,80570,3210.1,0.04,74273,86867,0.023,3348,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Sorghum,133033,5498.2,0.041,122247,143819,1.384,2696,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Bean,301658,6490.9,0.022,288925,314392,0.307,8524,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Irish potato,51595,3310.4,0.064,45101,58089,0.829,1775,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Sweet potato,87762,3031.7,0.035,81815,93710,2.485,2719,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Taro,15088,879.4,0.058,13363,16813,1.185,801,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Soybean,25574,1395.6,0.055,22836,28311,0.12,1180,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Vegetables,15574,1332.1,0.086,12960,18187,0.391,639,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Cooking banana,71262,3433.9,0.048,64526,77998,1.628,3791,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Dessert banana,37668,1503.1,0.04,34720,40617,1.786,3556,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Banana for beer,93877,3700.2,0.039,86618,101136,1.572,4116,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Cassava,147320,3736,0.025,139991,154649,1.313,6181,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+Fruits,8371,1214.2,0.145,5989,10753,0.236,371,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2021",,,,,,,,NISR SAS publication tables,SAS 2021_Tables::Table 64,2021,,2026-09-19T00:08:34Z

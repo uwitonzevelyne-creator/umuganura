@@ -1,0 +1,16 @@
+CropCategory,Sold,Auto consumption,Wages for hired labor,Farm rent,Offered as gift,Barter trade/Exchanged with other things,Seeds,Fodder purposes,Stored,Post harvesting losses,Other usage,source,dataset,year,season,downloaded_at
+Cereals,,,,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Tubers and Roots,,,,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Sweet potato,31.28967,56.585620000000006,2.07626,0.86344,6.18412,0.00565,0,2.78955,0.02424,0.14872,0.032729999999999995,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Irish potato,43.158809999999995,41.27952,0.46887999999999996,0.05608,4.88676,0.024800000000000003,9.927950000000001,0.020550000000000002,0.00622,0.11773,0.05270999999999999,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Legumes and Pulses,,,,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Bush bean,10.78032,68.48185,0.36943000000000004,0.16299000000000002,3.6024800000000003,0.22648,14.45457,0,1.74454,0.13940999999999998,0.03794,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Climbing bean,8.34365,67.33031,0,0,6.01338,0,17.69987,0,0.17543999999999998,0.03249,0.40486000000000005,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Pea,58.320640000000004,30.310579999999998,0.08663,0.24752,3.06493,0.14851,7.78843,0,0.007980000000000001,0.02475,0,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Groundnut,11.25,66.875,0,0,0,0,21.875,0,0,0,0,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Soybean,25.7824,51.65772,0.11161000000000001,0.63677,5.97054,0.17857,15.54759,0,0.08503,0.02976,0,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Vegetables and fruits,,,,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Vegetables,77.22971,17.22237,0.27739,0.28838,3.49873,0.013420000000000001,0.47621,0.00658,0.00428,0.84858,0.13435,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Fruits,83.75394,15.13949,0,0,1.10657,0,0,0,0,0,0,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+Other crops,99.6,0.4,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z
+"Source: NISR, Season C 2020",,,,,,,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 25,2020,,2026-09-19T00:08:34Z

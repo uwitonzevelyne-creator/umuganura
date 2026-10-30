@@ -1,0 +1,33 @@
+District,Dominant hill crop land,Dominant wetland crops,Dominant rangeland,Mixed stratum,Total,source,dataset,year,season,downloaded_at
+Nyarugenge,12,6,-,2,20,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Gasabo,22,4,-,3,29,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Kicukiro,13,5,-,2,20,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Nyanza,37,4,-,2,43,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Gisagara,33,5,-,3,41,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Nyaruguru,25,3,-,7,35,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Huye,27,3,-,5,35,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Nyamagabe,36,2,-,6,44,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Ruhango,36,3,-,3,42,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Muhanga,33,3,-,4,40,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Kamonyi,36,3,-,4,43,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Karongi,38,2,-,3,43,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Rutsiro,34,-,-,4,38,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Rubavu,21,-,-,4,25,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Nyabihu,29,-,-,3,32,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Ngororero,38,2,-,3,43,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Rusizi,27,2,-,5,34,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Nyamasheke,31,2,-,5,38,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Rulindo,28,3,-,4,35,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Gakenke,37,2,-,4,43,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Musanze,24,2,-,4,30,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Burera,30,2,-,3,35,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Gicumbi,37,2,-,5,44,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Rwamagana,34,2,-,6,42,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Nyagatare,31,5,25,7,68,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Gatsibo,38,3,5,5,51,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Kayonza,32,2,13,5,52,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Kirehe,45,-,-,9,54,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Ngoma,39,-,-,6,45,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Bugesera,45,3,-,8,56,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+Total,948,75,43,134,1200,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2024",,,,,,NISR SAS publication tables,Tables_2024 Season B::Table 4,2024,B,2026-09-19T00:08:34Z

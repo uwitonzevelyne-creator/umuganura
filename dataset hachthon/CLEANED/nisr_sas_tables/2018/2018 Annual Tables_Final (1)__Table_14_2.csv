@@ -1,0 +1,35 @@
+District,Used,col_3,col_4,Not used,col_6,col_7,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Nyarugenge,5.24,4.8,7.69,94.76,95.2,92.31,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Gasabo,10.96,10.53,76.19,89.04,89.47,23.81,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Kicukiro,16.36,12.98,,83.64,87.02,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Nyanza,17.02,12.84,18.18,82.98,87.16,81.82,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Gisagara,36.49,22.63,28.07,63.51,77.37,71.93,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Nyaruguru,34.02,23.73,8.51,65.98,76.27,91.49,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Huye,29.33,23.4,21.43,70.67,76.6,78.57,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Nyamagabe,19.26,24.8,20.45,80.74,75.2,79.55,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Ruhango,2.65,7.34,28.57,97.35,92.66,71.43,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Muhanga,8.58,2.96,11.11,91.42,97.04,88.89,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Kamonyi,8.01,1.71,25,91.99,98.29,75,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Karongi,24.51,17.23,27.27,75.49,82.77,72.73,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Rutsiro,30.64,30.68,77.27,69.36,69.32,22.73,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Rubavu,45.37,52.56,86.96,54.63,47.44,13.04,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Nyabihu,43.69,46.64,75.64,56.31,53.36,24.36,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Ngororero,20.26,19.43,4.44,79.74,80.57,95.56,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Rusizi,45.08,33.33,62.16,54.92,66.67,37.84,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Nyamasheke,38.17,40.07,20,61.83,59.93,80,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Rulindo,24.84,12.63,45,75.16,87.37,55,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Gakenke,42.65,30.67,41.38,57.35,69.33,58.62,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Musanze,39.34,33.6,77.23,60.66,66.4,22.77,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Burera,28.95,20.25,50.75,71.05,79.75,49.25,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Gicumbi,19.2,16.5,59.26,80.8,83.5,40.74,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Rwamagana,33.86,22.19,78.95,66.14,77.81,21.05,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Nyagatare,26.06,16.71,41.18,73.94,83.29,58.82,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Gatsibo,22.3,11.89,43.24,77.7,88.11,56.76,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Kayonza,16.35,9.54,60,83.65,90.46,40,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Kirehe,17.84,9.21,71.43,82.16,90.79,28.57,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Ngoma,30.74,6.31,,69.26,93.69,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+Bugesera,15.54,14.24,40.54,84.46,85.76,59.46,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+SSF Overall,24.76,18.47,44.7,75.24,81.53,55.3,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+LSF Overall,42.79,32.98,0,57.21,67.02,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z
+2018 Seasonal Agricultural Survey,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 14.2,2018,Annual,2026-09-19T00:08:34Z

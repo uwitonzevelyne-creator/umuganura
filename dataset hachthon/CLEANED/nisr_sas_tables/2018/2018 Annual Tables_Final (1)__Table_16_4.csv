@@ -1,0 +1,19 @@
+Crop,Surface irrigation,col_3,Flood irrigation,col_5,Drip irrigation,col_7,Sprinkler irrigation,col_9,Tradition irrigation,col_11,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season A,Season B,Season A,Season B,Season A,Season B,Season A,Season B,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Fruits,35.71,22.22,0,0,35.71,38.89,7.14,22.22,21.43,16.67,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Vegetables,33.33,28.95,0,0,5.56,10.53,29.17,21.05,31.94,39.47,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Other crops,100,88.89,0,0,0,11.11,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Other celeals,0,0,0,0,0,0,100,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Fodder crops,100,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Maize,18.52,50,0,0,0,0,37.04,28.57,44.44,21.43,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Paddy rice,0,19.1,97.22,80.9,0,0,0,0,2.78,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Wheat,0,0,0,0,0,0,100,100,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Bush bean,33.33,100,0,0,0,0,66.67,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Pea,0,25,0,0,0,0,100,75,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Irish potato,0,0,0,0,0,0,100,50,0,50,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Sweet potato,0,0,0,0,0,0,0,75,100,25,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Soybean,0,0,0,0,0,0,100,100,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Cooking banana,40,60,0,0,0,0,0,0,60,40,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Dessert banana,100,100,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+Banana for beer,0,100,0,0,100,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z
+LSF Overall,19.43,30.35,33.18,35.82,7.11,5.97,19.43,15.42,20.85,12.44,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 16.4,2018,Annual,2026-09-19T00:08:34Z

@@ -1,0 +1,34 @@
+col_1,Overall,col_3,SSF,col_5,LSF,col_7,Overall_1,col_9,SSF_1,col_11,LSF_1,col_13,Overall_2,col_15,SSF_2,col_17,LSF_2,col_19,source,dataset,year,season,downloaded_at
+,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Nyarugenge,2.3,97.8,2.3,97.7,-,-,1.9,98.1,1.9,98.1,-,-,2.8,97.2,2.8,97.2,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Gasabo,4,96.1,2.3,97.7,10.9,89.1,3.1,96.9,2.4,97.6,25,75,2.9,97.1,2.1,97.9,52,48,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Kicukiro,5.3,94.8,5.2,94.8,5.6,94.4,5.8,94.2,5.9,94.1,-,100,9.7,90.3,9.7,90.3,0.3,99.7,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Nyanza,8.7,91.3,7.3,92.7,47.1,52.9,8.7,91.3,8,92,42.9,57.1,4.6,95.4,3.5,96.5,50.2,49.8,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Gisagara,11.1,89,9.5,90.5,44,56,11.3,88.7,9.7,90.3,55.6,44.4,6.8,93.2,2.4,97.6,45.6,54.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Nyaruguru,0.7,99.3,0.7,99.3,-,100,0.4,99.6,0.4,99.6,-,100,0.3,99.7,0.4,99.6,-,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Huye,10.8,89.2,6.9,93.1,61.3,38.7,11.4,88.6,7.5,92.5,84.2,15.8,6.8,93.2,2.5,97.5,90.8,9.2,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Nyamagabe,1.6,98.4,1.6,98.4,-,100,1.7,98.3,1.7,98.3,-,100,0.4,99.6,0.4,99.6,-,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Ruhango,3.3,96.7,2,98,35.3,64.7,3.8,96.2,2.2,97.8,66.7,33.3,5.4,94.6,2.6,97.4,93.6,6.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Muhanga,2,98,1.2,98.8,20,80,2.1,97.9,1.2,98.8,80,20,2.4,97.6,1.5,98.5,80.6,19.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Kamonyi,2.1,97.9,1.5,98.5,12.5,87.5,2.5,97.5,1.7,98.3,42.9,57.1,2.1,97.9,1.5,98.5,62.2,37.8,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Karongi,2.7,97.3,2.7,97.3,-,100,2.7,97.3,2.7,97.3,-,100,0.6,99.4,0.6,99.4,-,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Rutsiro,-,100,-,100,-,-,-,100,-,100,-,-,-,100,-,100,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Rubavu,-,100,-,100,-,100,-,100,-,100,-,100,-,100,-,100,-,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Nyabihu,-,100,-,100,-,-,-,100,-,100,-,-,-,100,-,100,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Ngororero,0.5,99.6,0.4,99.6,-,-,0.3,99.7,0.3,99.7,-,-,1.2,98.8,1.2,98.8,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Rusizi,3.3,96.7,2.6,97.4,40,60,3.2,96.8,2.3,97.7,66.7,33.3,5.2,94.8,0.7,99.3,86.6,13.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Nyamasheke,4.8,95.2,4,96,66.7,33.3,5,95,4,96,80,20,2.9,97.1,1.5,98.5,94.5,5.5,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Rulindo,3.1,96.9,3,97,4.2,95.8,3,97,2.8,97.2,16.7,83.3,1.3,98.7,1.2,98.8,50,50,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Gakenke,1.5,98.5,1.5,98.5,,,1.8,98.2,1.8,98.2,-,-,0.3,99.7,0.3,99.7,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Musanze,0.4,99.6,0.4,99.6,-,100,0.4,99.6,0.4,99.6,-,100,0,100,0,100,-,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Burera,-,100,-,100,-,-,-,100,-,100,-,-,-,100,-,100,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Gicumbi,1.7,98.3,1.7,98.3,-,100,1.7,98.3,1.7,98.3,-,100,0.7,99.3,0.7,99.3,-,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Rwamagana,9.5,90.5,7.9,92.1,14.5,85.5,9.7,90.3,8.2,91.8,36.4,63.6,5.6,94.4,4.7,95.3,58.6,41.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Nyagatare,3.4,96.6,0.6,99.4,45.9,54.1,1.7,98.3,0.5,99.5,52.4,47.6,4.2,95.8,0.6,99.4,92.2,7.8,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Gatsibo,1.8,98.2,1.2,98.8,12.8,87.2,1.8,98.2,1.3,98.7,26.7,73.3,3.3,96.7,0.7,99.3,71,29,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Kayonza,3.4,96.6,1.2,98.8,15.5,84.5,2.2,97.8,1.4,98.6,40,60,3.3,96.7,1.2,98.8,73.8,26.2,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Kirehe,2.8,97.2,1.4,98.6,92.3,7.7,2.7,97.3,1.6,98.4,88.9,11.1,4.4,95.6,0.4,99.6,99.2,0.8,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Ngoma,2.4,97.6,0.8,99.2,18.9,81.1,3,97,0.9,99.1,58.3,41.7,2,98,0.5,99.5,77.1,22.9,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+Bugesera,8,92,2.2,97.8,20.4,79.6,5.1,94.9,2.3,97.7,35.3,64.7,3.9,96.1,1.4,98.6,53,47,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+National,3.4,96.6,2.3,97.7,21.7,78.3,3.1,96.9,2.3,97.7,47,53,2.8,97.2,1.2,98.8,72.4,27.6,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2019",,,,,,,,,,,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 48,2019,Annual,2026-09-19T00:08:34Z

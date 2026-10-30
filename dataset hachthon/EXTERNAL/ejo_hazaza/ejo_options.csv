@@ -1,0 +1,31 @@
+cause,id,option,lead,capex_bn,opex_bn,effect,basis
+transport,T1,"Route plan and market information: direct district-to-market links, SMS prices to traders",NAEB; MINICOM; districts,0.8,0.2,0.25,"Effect checked against the route model: the optimal plan removes the Nyabugogo detour for most flows"
+transport,T2,Sector collection centres where trucks load once,MINAGRI; cooperatives,6,0.6,0.30,Assumption
+transport,T3,Feeder road rehabilitation on the busiest produce corridors,MININFRA; RTDA; districts,25,1.0,0.35,Assumption
+transport,T4,Shared ventilated and refrigerated trucks for perishables,Private sector; NAEB,8,1.5,0.25,Assumption
+transport,T5,Night loading and direct buyer contracts,Traders; cooperatives,0.3,0.1,0.10,Assumption
+storage,S1,Hermetic (PICS) bags for farm households,RAB; MINAGRI,3,0.5,0.45,"Assumption based on hermetic storage trials (insect damage close to zero)"
+storage,S2,Cooperative warehouses with moisture meters at the optimal sites,MINAGRI; cooperatives,15,1.2,0.40,Sites chosen by the p-median model
+storage,S3,Warehouse receipt system so farmers can store and borrow,MINICOM; EAX; banks,1.5,0.3,0.15,Assumption
+storage,S4,Aflatoxin and moisture testing at collection,RSB; RAB,1.2,0.4,0.15,Assumption
+storage,S5,Metal silos for large cooperatives,Private sector,9,0.4,0.30,Assumption
+weather,W1,Solar and mechanical dryers at cooperatives,MINAGRI; RAB,10,1.0,0.45,Assumption
+weather,W2,Tarpaulins and raised drying floors for households,Districts; RAB,2.5,0.3,0.25,Assumption
+weather,W3,Weather early-warning SMS before harvest rains,Meteo Rwanda; RAB,0.6,0.2,0.15,Assumption
+weather,W4,Harvest timing and planting calendar advice,RAB extension,0.8,0.3,0.15,Assumption
+weather,W5,Covered drying sheds at collection points,Cooperatives; districts,6,0.4,0.30,Assumption
+cold,C1,Solar cold rooms at collection points (sized by the queue model),MINAGRI; NAEB; private sector,12,2.0,0.45,Number of rooms from the M/M/c model
+cold,C2,Milk collection centres with chillers,MINAGRI; RAB; dairy cooperatives,6,1.0,0.30,Assumption
+cold,C3,Refrigerated trucks for export horticulture,NAEB; private sector,7,1.5,0.25,Assumption
+cold,C4,Evaporative (zero-energy) coolers at markets,Districts; market committees,1,0.2,0.15,Assumption
+cold,C5,Pack-house and cold store at Kigali airport,NAEB; RwandAir Cargo,9,1.0,0.20,Assumption
+glut,G1,Staggered planting calendar by district,RAB; districts,0.5,0.2,0.20,Assumption
+glut,G2,"Processing units: tomato paste, cassava flour, banana juice, dried fruit",MINICOM; private sector,18,2.0,0.40,Assumption
+glut,G3,Store and sell later (inventory plan from the model),Cooperatives,3,0.5,0.25,Timing from the multi-period model
+glut,G4,"Institutional buyers: school feeding, army, prisons",MINEDUC; MINAGRI,0.5,0.1,0.20,Assumption
+glut,G5,Price information and regional export links,NAEB; MINICOM,1,0.3,0.15,Assumption
+handling,H1,Plastic crates replacing sacks,Private sector; cooperatives,4,0.5,0.40,Break-even from the crate model
+handling,H2,Post-harvest handling training for farmers and traders,RAB extension,1,0.4,0.20,Assumption
+handling,H3,Sorting and grading at collection points,Cooperatives,2,0.3,0.20,Assumption
+handling,H4,Mechanical threshers and shellers,MINAGRI; private sector,5,0.5,0.25,Assumption
+handling,H5,"Standard packaging (cartons, nets) for markets",RSB; private sector,1.5,0.4,0.15,Assumption

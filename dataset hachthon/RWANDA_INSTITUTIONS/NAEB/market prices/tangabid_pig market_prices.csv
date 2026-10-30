@@ -1,0 +1,5 @@
+observed_date,product,unit,location,region,price,currency,source,scraped_at
+2025-05-15,Pig,Piece,Nyabugogo,NYARUGENGE,3500.00,RWF,Esoko Rwanda,2026-03-18T00:09:29.163816+00:00
+2025-04-14,Pig,Piece,Nyabugogo,NYARUGENGE,3500.00,RWF,Esoko Rwanda,2026-03-18T00:09:10.467827+00:00
+2025-02-12,Pig,Piece,Base,RULINDO,3300.00,RWF,Esoko Rwanda,2026-03-18T00:08:27.123878+00:00
+2025-01-04,Pig,Piece,Nyabugogo,NYARUGENGE,2267.00,RWF,Esoko Rwanda,2026-03-18T00:07:50.351899+00:00

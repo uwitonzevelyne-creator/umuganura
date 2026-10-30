@@ -1,0 +1,34 @@
+District,"Severe (Rill erosion, Gully erosion, Mass movement/Landslides)",col_3,col_4,"Moderate (Diffuse overland flow erosion, overland flow erosion)",col_6,col_7,"Low (splash erosion, wind erosion)",col_9,col_10,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Nyarugenge,1.97,0.3,0,14.65,25.5,0,83.38,74.2,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Gasabo,0.38,3.8,4.3,1.13,5.2,21.7,98.5,91,73.9,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Kicukiro,0.33,0,-,0,0,-,99.67,100,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Nyanza,0.22,0.4,0,2.4,1.5,0,97.38,98.1,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Gisagara,0.71,2,1,22.28,12,7.6,77.01,85.9,91.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Nyaruguru,0,2.7,0,38.72,45.9,12.3,61.28,51.4,87.7,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Huye,0.46,0.2,0,22.81,22.7,0,76.73,77.1,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Nyamagabe,1.15,0.5,5.3,22.07,30.1,46.1,76.78,69.5,48.7,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Ruhango,0.24,0.8,0,3.32,4.9,9.5,96.45,94.4,90.5,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Muhanga,1.18,0.4,2.9,17.36,3.8,20,81.46,95.8,77.1,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Kamonyi,2.56,0,0,1.4,8,3.1,96.05,92,96.9,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Karongi,1.23,0.8,0,13.09,4.2,19.2,85.68,95,80.8,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Rutsiro,0.43,0,0,10.32,6.8,35.6,89.25,93.2,64.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Rubavu,0.24,0,0,6.31,7.2,16.7,93.45,92.8,83.3,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Nyabihu,0.21,2.9,0,11.09,16,29.9,88.7,81.2,70.1,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Ngororero,5.37,1.3,0,22.6,20.8,2.1,72.04,77.9,97.9,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Rusizi,0.21,0.5,0,7.31,10.4,0,92.48,89.1,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Nyamasheke,0,0,0,1.08,2.9,0,98.92,97.1,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Rulindo,0.54,0.6,0,5.8,4.5,0,93.66,94.9,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Gakenke,0,0.8,0,5.08,2.9,0,94.92,96.3,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Musanze,0.39,0.2,0.8,20.04,8,4.1,79.58,91.8,95,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Burera,2.13,0.7,4.2,8.35,2.8,0,89.53,96.5,95.8,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Gicumbi,3.19,1.4,0,24.95,24.3,8.3,71.86,74.4,91.7,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Rwamagana,1.17,0,36.4,7.18,1.1,4.5,91.65,98.9,59.1,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Nyagatare,2.91,2.4,0,4.71,8.9,0,92.38,88.7,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Gatsibo,12.95,14.7,0,4.06,2.6,0,82.99,82.7,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Kayonza,0.24,0,0,10.82,9.5,0,88.94,90.5,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Kirehe,0,0.7,0,3.42,22.1,0,96.58,77.2,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Ngoma,0.24,0,-,6.75,9.6,,93.01,90.4,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+Bugesera,0.17,0,0,2.83,1.1,0,97,98.9,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+National,1.69,1.6,1.6,9.93,10.4,10.9,88.38,88,87.6,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2019",,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 58,2019,Annual,2026-09-19T00:08:34Z

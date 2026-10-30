@@ -1,0 +1,10 @@
+Crops,Sold,Auto consumption,Wages for hired labour,Farm rent,Offered as gift,Barter trade / Exchanged with other things,Seeds,Fodder purposes,Stored,Post harvesting losses,Other usage,source,dataset,year,season,downloaded_at
+Sweet potato,29,59.8,1.4,1.5,6.2,0,0,1.9,-,0.1,0.1,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Irish potato,44.8,41.7,0.5,0.2,4.9,0,7.3,0.1,0.1,0.2,0.2,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Legumes and Pulses,,,,,,,,,,,,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Bush bean,18.7,62.2,0.5,0.5,4.9,0,12.4,-,0.3,0.2,0.3,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Climbing bean,18.8,69.4,-,-,6.7,-,4.7,-,0.3,0,0.1,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Pea,75.2,16.1,0.4,0.4,1.5,0.1,6.1,-,0.3,0,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Soybean,32.5,44.8,0.3,0.6,6.1,-,14.8,0.2,0.5,0.1,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Vegetables and fruits,,,,,,,,,,,,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z
+Vegetables,77,18.1,0.1,0.2,3.6,0,0.2,0,0,0.5,0.3,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 27,2023,Annual,2026-09-19T00:08:34Z

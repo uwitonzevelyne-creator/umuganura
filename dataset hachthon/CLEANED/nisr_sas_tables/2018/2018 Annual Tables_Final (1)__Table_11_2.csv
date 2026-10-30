@@ -1,0 +1,23 @@
+col_1,Before 01/09,Between 01-15/09,Between 16-30/09,Between 01-15/10,Between 16-30/10,After 31/10/2017,Total,Before 31/12,Between 01-15/01,Between 16- 31/01,Between 01- 15/02,Between 16- 28/02,Between 01-15/03,Between 16-31/03,After 31/03,Total_1,source,dataset,year,season,downloaded_at
+Fruits,97.06,0,0,0,0,2.94,100,89.52,0.95,0.95,1.9,1.9,1.9,0,2.86,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Vegetables,9.36,19.88,19.3,19.88,13.45,18.13,100,4.96,5.79,4.13,11.57,23.14,17.36,12.4,20.66,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Other crops,96,0,0,0,0,4,100,92.16,0,0,1.96,0,3.92,0,1.96,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Other cereals,20,20,20,20,20,0,100,100,0,0,0,0,0,0,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Taro&Yams,100,0,0,0,0,0,100,87.5,0,12.5,0,0,0,0,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Fodder crops,75.19,9.77,9.02,1.5,0,4.51,100,72.94,1.18,1.18,0.59,4.12,13.53,2.94,3.53,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Maize,4.62,20.23,38.44,28.32,6.94,1.45,100,0.49,1.47,11.27,7.84,31.37,31.86,10.78,4.9,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Paddy rice,93.98,3.61,1.2,1.2,0,0,100,5.94,23.76,22.77,24.75,12.87,5.94,2.97,0.99,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Sorghum,0,37.5,56.25,6.25,0,0,100,9.33,9.33,5.33,18.67,40,13.33,2.67,1.33,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Wheat,10,0,60,30,0,0,100,0,7.69,0,0,15.38,53.85,23.08,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Bush bean,0.53,15.96,35.11,35.11,11.7,1.6,100,0,0,0.5,11.44,32.84,37.81,15.92,1.49,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Climbing bean,22.22,44.44,11.11,0,22.22,0,100,0,0,33.33,11.11,22.22,22.22,11.11,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Pea,0,16.67,33.33,16.67,0,33.33,100,0,0,0,16.67,33.33,33.33,0,16.67,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Irish potato,13.51,32.43,18.92,21.62,10.81,2.7,100,0,4.41,2.94,17.65,27.94,23.53,11.76,11.76,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Sweet potato,33.33,15.56,13.33,8.89,2.22,26.67,100,22.22,4.76,9.52,23.81,14.29,9.52,0,15.87,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Soybean,0,5.71,28.57,48.57,2.86,14.29,100,0,0,7.14,17.86,32.14,21.43,7.14,14.29,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Groundnut,0,25,43.75,12.5,0,18.75,100,0,0,0,0,33.33,66.67,0,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Cassava,87.5,0,8.33,0,0,4.17,100,100,0,0,0,0,0,0,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Cooking banana,98.82,1.18,0,0,0,0,100,100,0,0,0,0,0,0,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Dessert banana,100,0,0,0,0,0,100,100,0,0,0,0,0,0,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Banana for beer,100,0,0,0,0,0,100,100,0,0,0,0,0,0,0,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z
+Total,35.22,13.97,21.99,17.68,5.79,5.35,100,35.41,3.53,5.06,9.01,17.88,17.6,6.44,5.06,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 11.2,2018,Annual,2026-09-19T00:08:34Z

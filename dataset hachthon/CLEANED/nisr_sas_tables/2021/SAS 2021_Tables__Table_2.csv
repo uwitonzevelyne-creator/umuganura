@@ -1,0 +1,7 @@
+Table 2:,List of strata,col_3,source,dataset,year,season,downloaded_at
+Stratum,Stratum name,Definition,NISR SAS publication tables,SAS 2021_Tables::Table 2,2021,,2026-09-19T00:08:34Z
+1,Dominant hill crop land stratum,Clusters with Hillside agricultural land cover class greater or equal to 60 percent of the total area of the cluster,NISR SAS publication tables,SAS 2021_Tables::Table 2,2021,,2026-09-19T00:08:34Z
+2,Dominant Wetland crops stratum,Clusters with non-rice wetland land cover class greater than 25 percent of total area of the cluster,NISR SAS publication tables,SAS 2021_Tables::Table 2,2021,,2026-09-19T00:08:34Z
+3,Dominant rangeland,Clusters with rangeland land cover class greater or equal to 60 percent of the total area of the cluster,NISR SAS publication tables,SAS 2021_Tables::Table 2,2021,,2026-09-19T00:08:34Z
+4,Mixed stratum,The rest of other possible combinations,NISR SAS publication tables,SAS 2021_Tables::Table 2,2021,,2026-09-19T00:08:34Z
+9,Excluded stratum,All clusters with excluded land cover classes greater or equal to 50 percent of the total area of the cluster,NISR SAS publication tables,SAS 2021_Tables::Table 2,2021,,2026-09-19T00:08:34Z

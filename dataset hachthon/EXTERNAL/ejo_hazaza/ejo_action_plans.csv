@@ -1,0 +1,43 @@
+cause,id,activity,lead,after,opt,likely,pess,cost_m
+transport,A,Survey traders at 10 hub markets and map produce flows,NISR; MINICOM,,1,2,3,60
+transport,B,Run the route model and publish best routes and net prices,NAEB; Umuganura,A,1,1.5,3,20
+transport,C,Launch SMS and app market link for traders and cooperatives,NAEB; telecoms,B,1,2,4,150
+transport,D,Site and build sector collection centres,MINAGRI; districts,A,6,9,14,6000
+transport,E,Rehabilitate feeder roads on the top corridors,RTDA; districts,A,8,12,20,25000
+transport,F,Lease shared ventilated trucks to cooperatives,Private sector,D,2,3,5,8000
+transport,G,Measure loss and money saved each season,NISR,C;E;F,1,1,2,40
+storage,A,Map storage loss hot spots with NISR SAS and APHLIS,NISR; RAB,,1,1.5,2,30
+storage,B,Choose warehouse sites with the p-median model,MINAGRI; Umuganura,A,0.5,1,2,15
+storage,C,Procure and distribute hermetic bags,RAB; agro-dealers,A,2,3,5,3000
+storage,D,Build cooperative warehouses with moisture meters,MINAGRI; cooperatives,B,6,10,15,15000
+storage,E,Set up the warehouse receipt system with banks,MINICOM; EAX,D,2,3,5,1500
+storage,F,Train cooperatives on aflatoxin and moisture testing,RSB; RAB,B,1,2,3,1200
+storage,G,Audit stored grain and losses every season,NISR; RSB,C;E;F,1,1,2,40
+weather,A,Rank districts by harvest-rain risk (Monte Carlo),Meteo Rwanda; RAB,,0.5,1,2,20
+weather,B,Design the dryer and tarpaulin package,RAB,A,1,1.5,3,30
+weather,C,Connect early-warning SMS to the harvest calendar,Meteo Rwanda; telecoms,A,1,2,3,600
+weather,D,Install dryers at cooperatives in high-risk districts,MINAGRI; cooperatives,B,4,6,10,10000
+weather,E,Distribute tarpaulins and build drying floors,Districts,B,2,3,5,2500
+weather,F,Build covered drying sheds at collection points,Cooperatives,D,3,4,7,6000
+weather,G,Review losses after each rainy harvest,NISR; RAB,C;E;F,1,1,2,40
+cold,A,Size cold rooms per district with the queue model,NAEB; Umuganura,,0.5,1,2,20
+cold,B,Select sites and partners for solar cold rooms,MINAGRI; NAEB,A,1,2,3,40
+cold,C,Install solar cold rooms at collection points,Private sector; cooperatives,B,4,6,9,12000
+cold,D,Equip milk collection centres with chillers,RAB; dairy cooperatives,B,3,5,8,6000
+cold,E,Contract refrigerated trucks for export lots,NAEB; private sector,B,2,3,5,7000
+cold,F,Enforce the 48-hour dispatch rule with temperature loggers,NAEB; RSB,C;E,1,2,3,300
+cold,G,Track spoilage and export rejects monthly,NAEB,D;F,1,1,2,40
+glut,A,Build the monthly price calendar per product,NISR; NAEB,,0.5,1,2,20
+glut,B,Agree staggered planting calendars with districts,RAB; districts,A,1,2,3,500
+glut,C,Sign supply contracts with school feeding and institutions,MINEDUC; MINAGRI,A,2,3,5,500
+glut,D,Set up processing units for tomato and cassava and banana,MINICOM; private sector,A,8,12,18,18000
+glut,E,Run store-and-sell-later plans in cooperatives,Cooperatives,B,1,2,3,3000
+glut,F,Open regional market links and price alerts,NAEB; MINICOM,C,2,3,5,1000
+glut,G,Monitor price swings and unsold produce each season,NISR,D;E;F,1,1,2,40
+handling,A,Find the products with most handling loss (Pareto),RAB; Umuganura,,0.5,1,1.5,15
+handling,B,Run crate and packaging trials with traders,RAB; cooperatives,A,1,2,4,100
+handling,C,Train farmers and traders on careful handling,RAB extension,A,2,3,5,1000
+handling,D,Procure and lease crates through cooperatives,Private sector; cooperatives,B,2,4,6,4000
+handling,E,Set up sorting and grading at collection points,Cooperatives,B,2,3,5,2000
+handling,F,Introduce standard market packaging,RSB; private sector,D,2,3,6,1500
+handling,G,Measure damaged produce at markets every quarter,NISR,C;E;F,1,1,2,40

@@ -1,0 +1,22 @@
+Crop,Government,col_3,col_4,Recognized seed multipliers,col_6,col_7,Agro-dealers,col_9,col_10,NGOs,col_12,col_13,Market,col_15,col_16,Agriculture cooperatives,col_18,col_19,Other source,col_21,col_22,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Fruits,16.67,0,0,66.67,37.5,0,0,12.5,0,16.67,25,0,0,0,0,0,0,0,0,25,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Vegetables,0,4.35,1.2,3.23,1.09,0,37.63,43.48,2.33,2.15,5.43,32.56,55.91,40.22,32.56,0,0,3.49,1.08,5.43,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Other crops,45,77.94,0,15,18.38,0,0,0.74,0,25,0,0,0,0.74,0,0,0.74,0,15,1.47,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Taro&Yams,0,,0,0,,0,0,,0,0,,0,100,,0,0,,0,0,,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Fodder crops,50,0,0,0,0,0,25,100,0,25,0,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Maize,20.08,12.53,0,2.16,3.36,0,49.64,47.43,0,18.12,23.04,0,5.49,10.51,0,3.53,1.12,0,0.98,2.01,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Paddy rice,1.03,10.18,0,11.68,23.45,0,0.69,5.31,0,5.5,0.88,0,0,1.33,0,81.1,58.41,0,0,0.44,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Wheat,52.94,100,0,0,0,0,47.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Bush bean,28.21,11.76,66.67,2.56,0,0,23.08,64.71,0,33.33,0,0,7.69,5.88,,0,11.76,33.33,5.13,5.88,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Climbing bean,21.43,28.57,0,14.29,14.29,0,7.14,35.71,0,14.29,14.29,0,35.71,7.14,0,0,0,0,7.14,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Pea,33.33,16.67,0,33.33,8.33,0,0,25,0,0,33.33,0,33.33,8.33,0,0,8.33,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Irish potato,8.11,100,6.7,51.35,0,73.33,10.81,0,0,2.7,0,13.33,27.03,0,0,0,0,6.67,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Sweet potato,37.5,8.33,0,25,75,100,12.5,4.17,0,12.5,4.17,0,12.5,8.33,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Soybean,33.33,50,0,0,33.33,0,33.33,0,0,33.33,16.67,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Groundnut,0,0,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Cassava,100,50,0,0,18.18,0,0,4.55,0,0,9.09,0,0,9.09,0,0,0,0,0,9.09,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Cooking banana,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Dessert banana,23.08,29.41,0,61.54,35.29,0,3.85,5.88,0,7.69,5.88,0,0,0,0,0,0,0,3.85,23.53,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Banana for beer,40,27.27,,40,36.36,,0,0,,20,0,,0,18.18,,0,0,,0,18.18,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z
+Overall,17.25,21.51,2.58,5.72,13.48,7.7,39.16,27.75,53.6,15.44,11.85,2.1,7.48,9.27,29.9,13.82,13.48,4.1,1.14,2.68,100,NISR SAS publication tables,2018 Annual Tables_Final (1)::Table 13.5,2018,Annual,2026-09-19T00:08:34Z

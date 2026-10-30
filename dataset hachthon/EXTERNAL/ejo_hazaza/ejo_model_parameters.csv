@@ -1,0 +1,30 @@
+key,value,unit,basis
+transport_rwf_tkm,180,RWF per tonne-km,"Assumption: hiring a 10 t truck Huye to Kigali (about 125 km by road) costs roughly RWF 225,000 one way. Adjustable in the app."
+spoil_h_perishable,0.004,share lost per hour on the road,"Assumption: tomatoes, leafy vegetables, fruit and milk without cooling at 20-28 C"
+spoil_h_semi,0.0015,share lost per hour on the road,"Assumption: bananas, Irish and sweet potato, fresh cassava"
+spoil_h_durable,0.0002,share lost per hour on the road,"Assumption: dry grain and pulses"
+transfer_perishable,0.03,share lost per loading or unloading,"Assumption: bruising and crushing in sacks and baskets"
+transfer_semi,0.015,share lost per loading or unloading,Assumption
+transfer_durable,0.003,share lost per loading or unloading,"Assumption: spillage from torn bags"
+hub_share,0.4,share of marketed produce,"Assumption: share that passes through Nyabugogo before reaching its final market. NISR does not publish trade flows; adjustable in the app."
+market_slack,1.3,multiple of current demand,"Assumption: a market can absorb up to 30% more than its present share"
+marketed_default,0.5,share of harvest,"Used only when the NISR SAS use table has no sold share for the crop"
+discount_rate,0.12,per year,"Assumption close to Rwanda's public investment appraisal rate"
+rain_beta,0.8,extra loss per 100% excess rain,"Assumption: field and drying losses rise in proportion to harvest-month rain above the district median"
+q10,2,factor per 10 C,"Rule of thumb in post-harvest physiology: respiration and decay roughly double with each 10 C rise"
+lot_t,2,tonnes per lot,Assumption: a small truck or pick-up load arriving at a collection point
+room_t_day,6,tonnes per cold room per day,"Assumption: a 30 m3 solar cold room (ColdHubs-type) turning over produce each day"
+room_cost_rwf_m,9,RWF million per cold room per year,"Assumption: annualised capital plus running cost of a solar cold room"
+hort_export_loss_share,0.10,share of export-grade horticulture,"Assumption: export produce lost or rejected because of cold-chain breaks"
+crate_rwf,6000,RWF per crate,Assumption: 20 kg plastic field crate
+crate_trips,60,trips per crate per year,Assumption
+crate_life,4,years,Assumption
+damage_sack,0.12,share damaged in sacks,"Assumption from tomato handling trials in East Africa"
+damage_crate,0.04,share damaged in crates,"Assumption from tomato handling trials in East Africa"
+store_rwf_t_month,3000,RWF per tonne per month,Assumption: cooperative warehouse fee
+adoption_2026,0.10,share of full effect,Assumption: adoption ramp of the action plan
+adoption_2027,0.25,share of full effect,Assumption
+adoption_2028,0.45,share of full effect,Assumption
+adoption_2029,0.65,share of full effect,Assumption
+adoption_2030,0.80,share of full effect,Assumption
+adoption_2031,0.90,share of full effect,Assumption

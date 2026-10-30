@@ -1,0 +1,88 @@
+col_1,col_2,Season A,Season B,Season C,Season A_1,Season B_1,Season C_1,col_9,col_10,col_11,col_12,source,dataset,year,season,downloaded_at
+1,Cultivated area for major crops(Ha),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Maize,210608.946,85129.69120000002,0,218178.7411235,78150.92231369998,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sorgum,29702.422830000003,112694.24368000001,0,27151.321676800002,116985.73657279999,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Paddy Rice,16922.165,17283.298269,0,16938.3152962,16739.038817999997,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Wheat,3313.15459,7448.260889999999,0,4490.084078,7735.08558,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Cassava,219844.74546,164529.04063,0,194717.06253219998,188485.4549706,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sweet potato,87725.476227,85200.43447000002,7609.4783959999995,87455.9958548,79983.3260938,5682.6951850000005,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Irish potato,38351.0306,45923.033622999996,8525.743021999999,50836.3565635,60643.9190484,7739.628361999999,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,35321.297630400004,22027.832888,0,11406.1351918,19286.7706735,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Bananas,237848.50707999998,226472.18821999998,0,224052.9686924,232419.52596099998,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Beans,268095.00251,276435.17971810006,3255.9075600000006,287218.0344358,269105.14977420005,885.3917270000002,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Pea,9372.7850386,10298.064261,102.94846799999999,15121.3558725,10611.7647836,228.40772099999998,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Ground nuts,25004.33869,20451.270802000003,0,20473.609783800002,20983.1518433,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Soybean,22267.613800000003,30486.286189999995,306.61485400000004,24010.627657499997,30431.388010200015,350.9518686,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Vegetables and Fruits,26520.39283,25854.319629999998,3540.2987432999994,19768.679567299998,19157.149444399998,3017.0074636999993,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+2,Harvested area for major crops(Ha),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Maize,0,0,0,218178.74112350002,78151.11220369999,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sorgum,0,0,0,27151.3216768,116985.73657279999,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Paddy Rice,0,0,0,16937.847194,15841.817818,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Wheat,0,0,0,4490.084078,7735.08558,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Cassava,0,0,0,35896.919218519,56215.62779672526,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sweet potato,0,0,0,87456.46385480004,79983.3260938,5682.6951850000005,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Irish potato,0,0,0,50836.3565635,60643.9190484,7739.628361999999,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,0,0,0,11410.555012899997,19286.7708465,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Bananas,0,0,0,61976.201413310686,63139.51579007001,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Beans,0,0,0,287218.0344357999,269105.14977420005,885.3917270000002,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Peas,0,0,0,15121.355872499998,10611.7647836,228.40772099999998,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Ground nuts,0,0,0,20473.6097838,20983.1518433,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Soya beans,0,0,0,24010.6276575,30431.388010200015,350.9518686,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Vegetables and Fruits,0,0,0,17911.178494273285,17002.04727880777,3017.0074636999993,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+3,Crop area under permanent crop (%),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Banana,,,,17.28938868840041,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Coffee,,,,2.3689104299923436,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Tea,,,,2.643941163601372,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Fruits,,,,0.4610492837051554,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Pasture,,,,8.908867434716305,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+4,Production for major crops(MT),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Maize,324368.0488422974,85911.97011381752,0,332669.7119606457,91533.963092555,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sorgum,41662.26474238805,118309.6324318134,0,36580.79868993203,118110.50429323112,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Paddy Rice,55216.79714437657,64714.963152343524,0,57934.30277875856,55946.15823275542,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Wheat,3651.016319817858,7224.3356837132205,0,5950.124323377005,7525.033862749242,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Casava,451362.34658386564,590480.838216797,0,486440.39803282014,640759.3859108379,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sweet potato,574500.4075160021,483897.62727461715,23965.588292961824,661583.0067435901,498790.0137927363,26358.194471688894,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Irish potato,378905.6248594561,398934.309115062,69462.49096182907,439511.5516230217,396063.88359532907,80486.73466908046,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,129629.72988069258,93131.02032607625,0,70652.79790036641,97331.1727057987,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Banana,985484.6051953315,753522.1714615524,0,952683.8129806675,817013.2163252684,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Beans,224232.91524836683,226130.88185734843,3810.293158277712,251188.99605824443,233539.81973611627,1026.693802105957,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Peas,6767.6634425895345,5600.447481748235,54.788607724322205,9000.888128937288,5689.221083454434,136.9749177100257,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Ground nuts,11873.312774844357,8804.993546906317,0,12545.936524903489,9733.529227764431,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Soya beans,10686.337599690007,12925.499271581135,192.0979719726899,12155.592435892331,10427.098303981586,226.72929406097697,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Vegetables and Fruits,188057.36814736368,171854.43755798807,30719.86105208594,198820.76673128418,162982.7106087606,40416.81590888555,,2017,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+5,Yield for major crops (Kg/ha),,,,,,,,Season A,Season B,Season C,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Maize,1540.1437355956255,1009.1892605598632,0,1524.757683757732,1171.2432556810295,0,Maize,1540.1438196929741,1009.1892605598632,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sorgum,1402.6554325497104,1049.828532216415,0,1347.2934807880547,1009.61457142881,0,Sorghum,1402.6554835512038,1049.828532216415,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Paddy Rice,3262.9865708304205,3744.3641916669817,0,3420.4053275011825,3531.5491489358965,0,Paddy rice,3262.986617493644,3744.3641916669817,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Wheat,1101.9758422494428,969.9359072414584,0,1325.169912191788,972.8442930490812,0,Wheat,1101.9758422494428,969.9359072414584,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Casava,2053.0959047460583,3588.9155856970915,0,13551.03470221669,11398.242997975807,0,Cassava,2053.0955470683743,3588.9155856970915,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Sweet potato,6548.843417269284,5679.520653676979,3149.4390345545344,7564.712516183893,6236.174939859128,4638.326289480348,Sweet potato,6548.843611363341,5679.520653676979,3149.439034554534,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Irish potato,9879.93331421597,8687.019947115614,8147.3826718195305,8645.614700456064,6530.974412772201,10399.302253872285,Irish potato,9879.932881416982,8687.019947115614,8147.3826718195305,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Yams & Taro,3670.016068977151,4227.879374226178,0,6191.880922574859,5046.525075682202,0,Yams & Taro,3670.0160701097025,4227.879374226178,0,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Banana,4143.328950405668,3327.2172507538307,0,15371.76837649909,12939.808075844645,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Beans,836.3934916690694,818.0249781809596,1170.2706812344854,874.5585789961639,867.8385379546775,1159.5927212746103,,,,1170.2706812344854,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Peas,722.0546950258887,543.834971292401,532.1944929216645,595.2434559989745,536.1239340931177,599.6947787506084,Pea,722.0547674256148,543.834971292401,532.1944929216645,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Ground nuts,474.85010189823004,430.5352773503564,0,612.7857596871178,463.8735543856051,0,Groundnut,474.8501886857828,430.5352773503564,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Soya beans,479.9049281019058,423.9774956852866,626.5122823197921,506.25883709855407,342.64287585195336,646.0409940697406,Soybean,479.9049304725928,423.9774956852866,626.5122823197921,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Vegetables and Fruits,7091.047608262886,6647.0299747736235,8677.194575803285,11100.373255442284,9586.063839024295,13396.326126193651,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+6,Share of pure crop in agricultural land (%),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,26.63223058992189,26.656183913786514,78.92775756298255,36.416795722814754,32.456401715797504,77.83354298209855,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,95.71699035821307,89.54351728905266,0,95.3338386700737,96.60576906289442,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+7,Pecentage of plots with Improved seeds (%),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,6.15,95.44,8.61,11,5.43,13.3,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,52,59.67,0,53.83,5.43,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+8,Percentage of plots with organic fertilizer use (%),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,49.9,34.73,51.94,48.15,38.58,62.79,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,43.6,32.68,0,50.26,34.56,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+9,Percentage of plots with inorganic fertilizer use (%),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,18.9,15.14,37.51,24.76,18.47,62.79,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,43.7,32.49,0,42.79,32.98,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+10,Percentage of plots with pesticides use (%),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,10.1,11.68,41.93,19.49,13.23,46.06,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,38,31.83,0,42.09,32.72,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+11,Use of Irrigation(Percentage),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,3.98,4.63,23.56,5,4.82,28.04,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,27.8,20.71,0,18.53,27.7,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+12,Percentage of plot with Anti-erosion activities use (%),,,,,,,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Small Scale Farmers,67.63,64.38,82.69,68.32,67.4,84.22,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z
+,Large Scale Farmers,69.2,56.62,0,63.48,61.21,0,,,,,NISR SAS publication tables,2018 Annual Tables_Final (1)::Main Indicators,2018,Annual,2026-09-19T00:08:34Z

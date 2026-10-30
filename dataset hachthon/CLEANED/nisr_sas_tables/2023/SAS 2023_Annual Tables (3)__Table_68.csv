@@ -1,0 +1,33 @@
+District,Source of water used,col_3,col_4,col_5,col_6,source,dataset,year,season,downloaded_at
+,Rainwater,Water treatment,Underground,Lake / streams,Water catchment,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Nyarugenge,-,-,33.3,66.7,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Gasabo,-,15.2,27.3,57.6,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Kicukiro,-,7.7,15.4,61.5,15.4,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Nyanza,-,-,41.9,51.6,6.5,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Gisagara,2,2,51,44.9,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Nyaruguru,-,-,-,100,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Huye,-,5.1,32.2,50.9,11.9,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Nyamagabe,-,-,25,75,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Ruhango,6.7,-,36.7,53.3,3.3,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Muhanga,2.9,-,37.1,51.4,8.6,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Kamonyi,-,3.1,46.9,40.6,9.4,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Karongi,-,-,27.3,72.7,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Rutsiro,-,-,-,-,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Rubavu,-,-,-,-,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Nyabihu,-,-,-,-,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Ngororero,-,-,33.3,66.7,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Rusizi,-,6.3,6.3,87.5,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Nyamasheke,-,11.1,33.3,44.4,11.1,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Rulindo,-,3.6,32.1,46.4,17.9,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Gakenke,-,-,44.4,55.6,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Musanze,-,-,-,-,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Ngororero,-,-,100,-,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Gicumbi,-,-,-,100,-,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Rwamagana,-,29,13,24.6,33.3,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Nyagatare,-,2.3,9.1,54.6,34.1,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Gatsibo,-,-,34.1,52.3,13.6,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Kayonza,-,1.8,23.9,33.9,40.4,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Kirehe,-,4,24,64,8,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Ngoma,12.5,15,17.5,50,5,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+Bugesera,5.4,1.1,27.2,60.9,5.4,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z
+National,1.7,5.6,27.8,49.9,15,NISR SAS publication tables,SAS 2023_Annual Tables (3)::Table 68,2023,Annual,2026-09-19T00:08:34Z

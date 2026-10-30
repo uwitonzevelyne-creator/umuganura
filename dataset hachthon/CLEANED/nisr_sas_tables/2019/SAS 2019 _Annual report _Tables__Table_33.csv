@@ -1,0 +1,23 @@
+Crop,Government,col_3,col_4,Recognized seed multipliers,col_6,col_7,Agro-dealers,col_9,col_10,NGOs,col_12,col_13,Market,col_15,col_16,Agriculture cooperatives,col_18,col_19,Other source,col_21,col_22,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Fruits,22.6,16.2,-,46.1,61.8,,7.8,11.8,,6.1,-,-,15.7,8.8,,1.7,1.5,,-,-,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Vegetables,2,2.5,1.1,6.7,6.6,4.9,35.9,45.9,45.1,4.1,10.7,-,48.7,31.8,45.7,0.8,1.3,0.5,1.8,1.3,2.7,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Other crops,34.8,87.9,-,30.4,5,-,4.4,-,-,13,0.5,-,6.5,0.5,-,6.5,6,-,4.4,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Fodder crops,52.2,50,-,13,-,-,13,-,-,13,-,-,2.2,-,-,4.4,-,-,2.2,50,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Other cereals,-,-,-,-,-,-,-,-,-,-,-,-,100,-,-,-,-,-,-,100,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Maize,11.3,12.1,-,6.8,7.2,-,48.3,46.5,-,24.3,24.4,-,5.3,7.9,-,3.9,2,-,0.2,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Paddy rice,4.1,1.2,-,60.8,69.9,-,-,4.8,-,1,1.2,-,-,-,-,34,22.9,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Sorghum,-,100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Wheat,10.5,12,-,10.5,16,-,79,64,-,-,-,-,-,-,-,-,8,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Bush bean,17.5,20,-,7,16,100,21.1,26,-,49.1,32,-,3.5,4,-,-,2,-,1.8,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Climbing bean,16.7,22.2,-,-,11.1,-,33.3,22.2,,33.3,22.2,-,16.7,11.1,-,-,11.1,,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Irish potato,16.7,34.4,4.8,66.7,59.4,57.1,2.8,6.3,28.6,2.8,-,4.8,2.8,-,-,5.6,-,4.8,2.8,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Sweet potato,66.7,40,-,11.1,60,100,-,-,-,11.1,-,-,11.1,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Soybean,59,25,-,12.8,-,-,18,50,-,5.1,5,-,5.1,7.5,100,-,12.5,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Groundnut,-,-,-,50,100,-,50,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Cassava,65.4,58.8,-,19.2,35.3,-,-,-,-,7.7,-,-,3.9,5.9,-,3.9,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Cooking banana,65.9,-,-,22,88.9,-,2.4,-,-,7.3,11.1,-,2.4,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Dessert banana,35.7,43.2,-,57.1,37.8,-,-,2.7,-,-,-,-,3.6,8.1,-,-,5.4,-,385,2.7,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+Banana for beer,40,,-,60,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+National,13.2,21.3,1.4,11.6,14.7,11.5,40.4,34.6,42.6,19,15,0.5,11.3,10.3,40.7,4,3.7,1,0.5,0.4,2.4,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2019",,,,,,,,,,,,,,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 33,2019,Annual,2026-09-19T00:08:34Z

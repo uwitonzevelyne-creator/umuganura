@@ -1,0 +1,33 @@
+District,Maize,Sorghum,Paddy rice,Wheat,Cassava,Sweet potato,Irish potato,Yarms & Taro,Bananas,Beans,Pea,Groundnut,Soybean,Vegetables,Fruits,Other crops,Total Developed Crop area,source,dataset,year,season,downloaded_at
+Nyarugenge,561,-,-,-,1036,379,22,33,1522,1362,5,15,51,199,24,1529,6846,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Gasabo,4379,17,164,-,2853,2172,695,177,4467,7626,180,533,482,619,239,636,26669,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Kicukiro,1707,-,-,-,892,271,7,32,1094,2031,-,81,73,122,10,60,6424,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Nyanza,3889,360,359,-,12027,2422,482,185,4748,8552,341,1405,1467,731,145,2779,40241,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Gisagara,6286,295,2085,-,7923,4307,552,264,7484,12405,123,1166,2168,420,31,2246,48818,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Nyaruguru,2818,-,7,13,4855,4963,1302,410,2630,4138,350,53,875,214,-,1465,24851,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Huye,2396,35,895,-,4356,2453,379,336,3389,9147,429,245,2225,241,42,723,27593,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Nyamagabe,3318,-,-,-,5300,5024,1718,255,4403,8231,2049,-,751,200,56,920,32338,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Ruhango,1743,-,887,-,21800,1223,227,168,8070,10582,153,850,1887,487,536,1111,50004,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Muhanga,1949,-,151,-,8540,5347,183,2051,18282,9484,444,22,3946,263,3,766,52122,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Kamonyi,5397,-,205,-,10865,3737,348,759,12318,12365,65,889,1734,591,279,1275,50993,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Karongi,5101,3,12,-,7386,5448,786,755,10808,5597,557,30,463,162,149,1167,38544,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Rutsiro,10059,48,-,66,2216,3132,3616,863,6353,5136,678,-,853,497,577,3608,37848,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Rubavu,4258,116,-,220,10,498,5332,95,621,2647,384,-,-,1067,28,795,16214,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Nyabihu,3818,366,-,536,235,3478,7584,82,1527,6007,2116,-,70,892,75,3056,29884,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Ngororero,5330,260,31,264,5006,6968,1632,1251,12581,7779,475,-,834,122,695,832,44210,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Rusizi,9444,60,1472,-,18399,1636,131,948,3830,9654,75,80,149,235,486,2615,49251,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Nyamasheke,5687,-,327,11,11070,3108,38,861,4436,5749,50,573,1006,340,229,4131,38000,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Rulindo,6602,-,16,3,5710,4458,781,118,9868,13543,741,243,863,540,71,662,44354,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Gakenke,9564,-,-,-,4327,7499,1831,1190,14765,10223,748,223,360,288,496,1189,53244,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Musanze,6955,1586,-,3253,425,1994,4082,176,1296,2475,293,-,19,1036,169,1457,25487,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Burera,9631,2410,-,767,292,4278,4440,81,2808,9020,1749,-,-,563,509,380,37041,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Gicumbi,5570,606,-,54,2807,7696,5252,287,8007,21143,2775,538,84,856,178,684,56714,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Rwamagana,7802,-,339,-,7913,1447,1596,423,13839,13869,422,1637,383,1583,1224,2868,56277,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Nyagatare,26456,15726,2373,-,10309,2961,823,51,13271,20589,808,5942,1291,413,116,872,102785,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Gatsibo,16705,3225,1410,300,2174,2268,1510,23,18322,21237,408,2480,587,941,53,2148,73903,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Kayonza,8360,1914,872,-,9325,2627,1970,244,12202,15399,576,1275,382,370,122,832,57222,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Kirehe,17027,345,839,-,10065,682,1288,65,20084,20017,220,1157,468,95,-,1308,73797,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Ngoma,16496,273,956,-,9713,1796,999,170,18091,12850,440,1474,398,239,886,968,66401,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Bugesera,5850,2824,1271,-,7304,3370,122,343,12881,10585,-,3019,724,687,957,321,51178,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+Total,215159,30467,14671,5487,195135,97639,49728,12695,253996,299443,17658,23929,24593,15012,8383,43405,1319256,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2019",,,,,,,,,,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 7,2019,Annual,2026-09-19T00:08:34Z

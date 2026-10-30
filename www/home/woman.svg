@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440">
+  <g fill="none" stroke="#243028" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 290c24-96 190-150 330-96 70 28 110 16 140 40 12 58-48 112-180 132C188 392 78 368 60 290z" fill="#f4e6d8"/>
+
+    <ellipse cx="168" cy="318" rx="34" ry="18" fill="#243028"/>
+    <path d="M142 306c6-16 18-16 20-2" fill="#243028" stroke="none"/>
+    <path d="M176 300c10-12 20-4 14 8" fill="#243028" stroke="none"/>
+    <path d="M130 330c28 16 62 10 74-10"/>
+    <circle cx="156" cy="316" r="2" fill="#f4e6d8" stroke="none"/>
+
+    <path d="M230 248c6 46 2 100-14 148" stroke="none" fill="#f6d3c4"/>
+    <path d="M292 246c12 48 4 102-16 150" stroke="none" fill="#f6d3c4"/>
+    <path d="M214 248c6 46 2 100-14 148"/>
+    <path d="M292 246c12 48 4 102-16 150"/>
+    <path d="M196 390h22v22"/>
+    <path d="M268 396h20v18"/>
+    <path d="M184 410h48"/>
+    <path d="M254 414h40"/>
+    <path d="M192 408h24l8 12h-36z" fill="#fff"/>
+    <path d="M262 412h22l8 12h-34z" fill="#fff"/>
+
+    <path d="M214 250c32 24 74 22 96-2l8 26c-34 22-84 20-114-2z" fill="#1c1c1c"/>
+    <path d="M200 196h104l18 30-12 38H196l-10-32z" fill="#2f6fbe"/>
+    <path d="M226 196h56v14H226z" fill="#f7f4ee"/>
+
+    <circle cx="250" cy="138" r="30" fill="#f6d3c4"/>
+    <path d="M224 126c4-34 56-40 66-8 8 12 4 26-6 34-22 10-52 6-60-26z" fill="#243028"/>
+    <circle cx="250" cy="92" r="12" fill="#243028"/>
+    <circle cx="238" cy="138" r="2.2" fill="#243028" stroke="none"/>
+    <circle cx="258" cy="136" r="2.2" fill="#243028" stroke="none"/>
+    <path d="M240 152c6 5 14 5 18 0"/>
+
+    <path d="M292 220c26 10 36 2 38-14" stroke="#f6d3c4" stroke-width="10"/>
+    <path d="M326 198l12-22" stroke="#2f6fbe"/>
+    <rect x="300" y="176" width="48" height="60" rx="5" fill="#f7f4ee"/>
+    <path d="M312 206h24"/>
+    <path d="M318 194l10 14 12-16"/>
+
+    <path d="M196 230c-8 22-2 34 12 36" stroke="#f6d3c4" stroke-width="10"/>
+
+    <path d="M470 248h150v20H470z" fill="#f7f4ee"/>
+    <path d="M488 268v58"/>
+    <path d="M600 268v58"/>
+    <path d="M462 326h166"/>
+    <rect x="500" y="186" width="96" height="64" rx="5" fill="#f7f4ee"/>
+    <path d="M516 230l18 16 26-22"/>
+    <rect x="556" y="200" width="20" height="16" fill="#2f6fbe" stroke="none"/>
+
+    <path d="M92 330h26v18H88z" fill="#2f6fbe"/>
+    <path d="M84 348h38"/>
+  </g>
+</svg>

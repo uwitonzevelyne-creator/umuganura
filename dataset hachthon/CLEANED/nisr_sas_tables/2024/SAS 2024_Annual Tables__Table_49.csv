@@ -1,0 +1,20 @@
+Fertilizer name,Government (MINAGRI/RAB/NAEB),Agro-deal,NGOs,Market,Agricultural cooperative,Other source,Total,source,dataset,year,season,downloaded_at
+NPK 17-17-17;,2.35,58.77,28.03,5.28,4.04,1.54,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+NPK 20-10-10;,63.93,13.11,9.84,3.28,8.2,1.64,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+NPK 25-5-5;,84.21,5.26,10.53,0,0,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+NPK 22-6-12;,55.17,41.38,0,0,3.45,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Other NPK;,18.37,69.39,8.16,0,4.08,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Urea;,4.75,39.94,47.88,3.25,3.19,1,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+liquid urea (Mbonea M,3.39,42.37,37.29,5.08,11.86,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+DAP,4.43,38.07,51.32,3,2.58,0.6,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+"KCL/MOP,",0,40,0,20,40,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Omax;,0,66.67,33.33,0,0,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Winner;,0,54.55,36.36,0,9.09,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Yara Viva;,10,10,40,20,10,10,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Amidas;,0,33.33,33.33,0,16.67,16.67,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Cereal;,5.71,60,17.14,0,8.57,8.57,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+DI Grow;,6.78,64.41,11.86,6.78,8.47,1.69,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Dyna gro;,0,100,0,0,0,0,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Lime/Ishwagara,5.98,40.17,46.15,1.71,5.13,0.85,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+Other type of fertilizer,0.91,61.82,16.36,0.91,8.18,11.82,100,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2024",,,,,,,,NISR SAS publication tables,SAS 2024_Annual Tables::Table 49,2024,Annual,2026-09-19T00:08:34Z

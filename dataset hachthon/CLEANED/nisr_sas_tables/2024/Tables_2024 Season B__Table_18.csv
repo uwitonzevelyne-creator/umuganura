@@ -1,0 +1,19 @@
+Crop,Traditional seeds,Improved seeds,Total,source,dataset,year,season,downloaded_at
+Maize,45.45,54.55,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Paddy rice,79.58,20.42,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Wheat,89.79,10.21,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Irish potato,98.43,1.57,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Cassava,99.6,0.4,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Bush bean,99.87,0.13,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Climbing bean,99.71,0.29,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Pea,100,0,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Soybean,99.54,0.46,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Cooking banana,99.94,0.06,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Dessert banana,99.54,0.46,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Banana for beer,99.73,0.27,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Vegetables,63.54,36.46,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Fruits,97.77,2.23,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Fodder crops,99.14,0.86,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Other crops,86.52,13.48,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+Total,93.6,6.4,100,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2024",,,,NISR SAS publication tables,Tables_2024 Season B::Table 18,2024,B,2026-09-19T00:08:34Z

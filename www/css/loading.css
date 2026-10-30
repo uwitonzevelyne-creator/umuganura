@@ -1,0 +1,67 @@
+/* Scoped loading spinner on the viz / map / output that is busy */
+.um-loading-target {
+  position: relative !important;
+  min-height: 120px;
+}
+.um-loading-target::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 20;
+  background: rgba(235, 245, 251, 0.55);
+  border-radius: inherit;
+  pointer-events: none;
+}
+.um-loading-target::after {
+  content: attr(data-um-loading);
+  position: absolute;
+  z-index: 21;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 7.5rem;
+  padding: 0.85rem 1rem 0.85rem 2.6rem;
+  border-radius: 999px;
+  background: #fff url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 28 28'><circle cx='14' cy='14' r='11' stroke='%23d6eaf8' stroke-width='3' fill='none'/><path d='M14 3a11 11 0 0 1 11 11' stroke='%2314804a' stroke-width='3' fill='none' stroke-linecap='round'/></svg>") 0.7rem center / 1.35rem no-repeat;
+  border: 1px solid #9ec9e6;
+  box-shadow: 0 10px 24px rgba(15, 47, 74, 0.12);
+  color: #0f2f4a;
+  font-family: "Outfit", "Source Sans 3", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  pointer-events: none;
+  animation: um-spin-label 0.9s linear infinite;
+}
+@keyframes um-spin-label {
+  0% { filter: none; }
+  50% { filter: brightness(1.03); }
+  100% { filter: none; }
+}
+
+/* Soft shimmer while Shiny marks .recalculating (even before our class) */
+.shiny-plot-output.recalculating,
+.html-widget-output.recalculating,
+.shiny-html-output.recalculating,
+.js-plotly-plot.recalculating {
+  position: relative;
+}
+.shiny-plot-output.recalculating::after,
+.html-widget-output.recalculating::after,
+.shiny-html-output.recalculating::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(235, 245, 251, 0.4), transparent);
+  background-size: 200% 100%;
+  animation: um-shimmer 1.1s ease-in-out infinite;
+  pointer-events: none;
+  border-radius: inherit;
+  z-index: 2;
+}
+@keyframes um-shimmer {
+  0% { background-position: 100% 0; }
+  100% { background-position: -100% 0; }
+}

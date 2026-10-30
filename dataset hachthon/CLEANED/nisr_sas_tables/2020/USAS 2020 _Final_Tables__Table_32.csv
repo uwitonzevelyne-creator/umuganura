@@ -1,0 +1,26 @@
+Table 32:,Seed use by crop type and district in 2020 (%),col_3,col_4,col_5,col_6,col_7,source,dataset,year,season,downloaded_at
+Crop,Traditional seeds,,,Improved seeds,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Maize,47.3,62.17,,52.7,37.83,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Paddy rice,27.7,38.73,,72.4,61.27,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Sorghum,100,100,,-,0,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Wheat,73.1,65.7,,26.9,34.3,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Other cereal,100,100,,-,0,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Bush bean,98.4,98.85,99.28,1.6,1.15,0.72,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Climbing bean,98.8,99.52,97.37,1.2,0.48,2.63,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Pea,100,100,98.57,-,0,1.43,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Irish potato,96.6,94.63,89.82,3.5,5.37,10.18,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Sweet potato,99.9,99.77,98.55,0.1,0.23,1.45,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Taro & Yams,100,99.76,,0,0.24,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Soybean,97.3,96.28,98.28,2.7,3.72,1.72,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Groundnut,100,100,100,-,0,0,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Cooking banana,98.8,99.43,,1.2,0.57,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Dessert banana,97.8,97.84,,2.2,2.16,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Banana for beer,99.3,99.14,,0.7,0.86,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Cassava,99.1,99.28,,0.9,0.72,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Vegetables,58.2,45.77,43.57,41.8,54.23,56.43,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Fruits,61.4,49.19,6.67,38.6,50.81,93.33,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Fodder,83.1,83.4,,16.9,16.6,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+Other crops,77.8,74.33,0,22.2,25.67,100,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+National,87,92.83,73.36,13,7.17,26.64,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2020",,,,,,,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 32,2020,,2026-09-19T00:08:34Z

@@ -1,0 +1,25 @@
+Crop/District,Maize,Sorghum,Paddy rice,Wheat,Cassava,Sweet potatoe,Irish potatoe,Yams & Taro,Bananas,Cooking banana,Dessert banana,Banana for beer,Bush beans,Climbing beans,Peas,Groundnut,Soya beans,Vegetables,Fruits,Fodder crops,Other crops,source,dataset,year,season,downloaded_at
+Gasabo,3177,-,3790,-,5713,12534,-,-,20360,20360,-,-,560,-,-,-,460,2643,1402,6027,4717,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Kicukiro,1787,-,3621,-,-,-,-,-,8280,8232,8535,-,-,-,-,-,1178,6622,-,-,705,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Nyanza,2703,-,4449,-,-,-,-,-,5547,34886,13729,3923,420,-,-,-,-,15630,-,-,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Gisagara,1493,-,3207,-,-,-,-,-,29671,29671,-,-,312,98,-,-,-,1661,-,4283,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Nyaruguru,4122,-,-,-,-,-,23422,-,6637,7667,8001,3833,925,-,-,-,-,-,-,13117,24752,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Huye,2025,-,3744,-,-,3339,-,-,8960,8960,-,-,186,918,-,-,283,5919,-,-,43356,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Nyamagabe,1620,-,-,-,-,-,8807,-,-,-,-,-,-,154,-,-,-,-,-,-,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Ruhango,378,-,2997,-,21659,-,-,-,6991,4768,8029,9160,203,-,212,-,-,-,-,-,2757,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Muhanga,2373,-,2117,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Kamonyi,3978,-,4077,-,-,-,-,-,-,-,-,-,310,-,-,-,1507,1709,-,-,113,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Karongi,2797,-,-,-,-,-,-,-,-,-,-,-,602,-,-,-,-,2683,-,-,2448,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Rubavu,4018,-,-,-,-,-,15805,-,33983,33983,-,-,196,-,108,-,-,34543,-,23231,1229,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Rusizi,5012,-,4493,-,-,-,-,-,6772,12312,-,4925,447,-,-,-,173,-,2331,-,133,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Nyamasheke,1124,-,4331,-,6992,-,-,-,-,-,-,-,214,-,-,300,-,-,-,-,347,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Rulindo,4665,-,1616,571,-,-,18602,-,8449,7565,8370,10003,955,970,264,-,-,4166,-,2824,465,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Gicumbi,-,-,-,2747,-,-,16887,-,-,-,-,-,-,894,-,-,-,-,-,14764,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Rwamagana,3144,-,3945,-,17071,7660,7793,2481,15573,15911,5899,6906,1012,1042,-,696,1408,5250,2194,9939,9947,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Nyagatare,5607,2721,4098,-,10338,6304,6505,-,17106,20396,4495,7162,590,683,-,1159,1312,8566,11790,4825,1447,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Gatsibo,3694,1203,3287,-,15096,5569,9679,-,17595,21771,7510,6526,780,1629,-,417,1076,4861,4634,5607,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Kayonza,6587,797,3734,-,29628,2041,12812,1843,19626,21089,4284,13971,513,1067,653,-,609,18785,26147,13299,-,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Kirehe,5030,-,3962,-,-,-,-,-,-,-,-,-,1357,-,-,-,505,14487,-,-,187,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Ngoma,2596,-,3605,-,-,-,8999,-,21667,31313,8969,10002,-,-,-,-,-,5898,10129,-,6829,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+Bugesera,2447,-,3152,-,15303,6346,8201,-,20017,23133,7802,11925,810,-,362,723,802,4985,36648,18113,1690,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z
+National,3756,1637,3649,1400,16050,6769,16134,1896,16989,19218,7123,6962,867,908,371,494,717,9501,13584,13553,3066,NISR SAS publication tables,USAS 2020 _Final_Tables::Table 17,2020,,2026-09-19T00:08:34Z

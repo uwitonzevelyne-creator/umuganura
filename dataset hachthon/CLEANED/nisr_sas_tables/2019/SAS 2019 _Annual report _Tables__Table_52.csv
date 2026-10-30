@@ -1,0 +1,22 @@
+Crop name,Surface irrigation,col_3,col_4,Flood irrigation,col_6,Drip irrigation,col_8,Sprinkler irrigation,col_10,col_11,Tradition techniques,col_13,col_14,source,dataset,year,season,downloaded_at
+,Season A,Season B,Season C,Season A,Season B,Season A,Season B,Season A,Season B,Season C,Season A,Season B,Season C,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Fruits,-,5.9,,-,-,20,41.2,13.3,47.1,,66.7,5.9,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Vegetables,7.9,9.3,6.3,0.4,-,6.8,2.1,8.9,4.6,0.3,76.1,84,93.5,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Other crops,-,-,,20,-,10,27.3,25,27.3,,45,45.5,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Other cereals,,-,,,-,,-,,100,,,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Maize,12.9,15,,-,-,-,10,10,35,,77.1,40,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Paddy rice,9.6,8.5,,86.9,88.8,-,-,-,-,,3.5,2.7,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Sorghum,,-,,,-,,-,,100,,,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Bush bean,7.7,37.5,3.8,-,-,-,-,23.1,37.5,-,69.2,25,96.2,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Climbing bean,-,-,-,-,-,-,50,-,-,-,100,50,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Pea,,-,-,,-,,-,,-,-,,100,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Irish potato,-,19.2,1.2,-,-,-,7.7,-,11.5,-,100,61.5,98.8,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Sweet potato,15.4,40,8.7,-,-,-,-,-,-,-,84.6,60,91.3,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Soybean,-,45.5,-,-,-,-,-,75,54.5,-,25,-,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Groundnut,-,-,-,-,,-,,-,,-,100,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Cassava,-,--,,-,,-,,-,,-,100,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Taro,25,50,-,-,-,-,-,-,-,-,75,50,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Cooking banana,33.3,-,-,-,-,-,-,66.7,100,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+Dessert banana,,-,-,-,-,-,-,-,-,-,,100,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+National,8.5,10.6,5.3,27.4,32.2,3.7,3.4,7.3,7.5,0.2,53,46.3,94.5,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2019",,,,,,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 52,2019,Annual,2026-09-19T00:08:34Z

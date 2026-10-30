@@ -1,0 +1,33 @@
+col_1,Maize,Sorghum,Paddy rice,Wheat,Other Cereals,Cassava,Sweet potatoes,Irish potatoes,Yams & Taro,Bananas,Cooking Banana,Dessert banana,Banana for beer,Beans,Bush bean,Climbing bean,Pea,Ground nuts,Soya beans,Vegetables,Fruits,Fodder crops,Other crops,source,dataset,year,season,downloaded_at
+Nyarugenge,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Gasabo,2755,1536,3416,-,-,-,6060,-,-,3848,3848,-,-,830,830,-,-,-,446,3525,20376,5850,518,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Kicukiro,988,1769,6632,-,-,-,-,-,-,13322,11720,14736,-,236,236,-,-,-,1848,67075,-,30901,469,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Nyanza,-,-,3367,-,-,-,-,7220,-,-,-,-,-,1443,-,1443,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Gisagara,2054,-,3541,-,-,-,6118,-,-,10854,16431,6288,10837,311,281,1012,-,-,1278,1002,-,-,267,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Nyaruguru,4000,-,-,-,-,-,-,20472,-,8293,6133,7220,9500,1048,1054,795,-,-,-,-,7270,38614,7425,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Huye,3692,-,3856,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Nyamagabe,-,-,-,846,-,-,-,6622,-,-,-,-,-,401,-,401,653,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Ruhango,3715,-,3223,-,-,26398,-,-,4240,10556,11001,15017,10468,331,331,-,-,-,-,3956,-,-,1662,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Muhanga,1114,-,2903,1133,-,-,-,6776,-,-,-,-,-,1053,293,1078,-,-,-,8705,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Kamonyi,4088,-,3029,-,-,-,-,2799,-,-,-,-,-,1290,1290,-,1425,-,-,15073,-,-,16,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Karongi,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1733,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Rutsiro,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Rubavu,2919,-,-,-,-,-,-,12707,4790,12387,12387,-,-,1430,-,1430,-,-,-,-,-,-,166,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Nyabihu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Ngororero,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Rusizi,2256,-,5334,-,-,9489,-,-,-,9664,8619,-,11057,830,830,-,-,-,-,-,-,-,161,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Nyamasheke,-,-,4290,-,-,-,-,-,-,-,-,-,-,-,-,-,-,238,-,-,-,-,964,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Rulindo,2846,1857,2398,2104,-,-,-,8469,-,-,-,-,-,926,911,935,-,-,-,3187,-,-,625,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Gakenke,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Musanze,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Burera,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Gicumbi,665,-,-,1278,-,-,-,6350,-,-,-,-,-,891,-,891,-,-,-,-,-,27737,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Rwamagana,1848,2097,4912,-,-,17782,5535,6936,4798,16400,17280,8056,-,720,710,3216,-,467,138,8467,4140,19693,13586,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Nyagatare,3354,1668,4543,-,-,49096,2661,4433,-,15374,15755,10474,12223,1295,1294,1450,855,-,1312,4585,12206,10166,2380,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Gatsibo,1187,-,3651,-,-,-,1416,-,-,11504,11207,12889,-,785,725,1343,-,192,1136,4195,-,16305,-,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Kayonza,3517,1164,4246,-,606,19112,5100,3759,1115,14307,14422,14451,12102,693,693,-,345,1419,989,5792,3717,9192,777,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Kirehe,5827,-,4417,-,-,-,-,5665,-,-,-,-,-,1389,1389,-,1613,855,1745,11049,19077,-,354,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Ngoma,2570,1789,3190,-,-,-,1249,-,-,11799,12104,7764,10564,868,870,666,-,-,388,6205,3397,8308,3500,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+Bugesera,2214,1723,6120,-,-,7607,-,3694,-,10760,10690,11259,9981,324,324,551,-,250,515,4130,1276,43232,1022,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+LSF,3749,1804,4166,1412,606,18133,4865,16166,4500,13514,13929,11918,11216,1195,1192,1235,1545,788,1273,9481,4542,29775,2252,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2021",,,,,,,,,,,,,,,,,,,,,,,,NISR SAS publication tables,SAS 2021_Tables::Table 22 ,2021,,2026-09-19T00:08:34Z

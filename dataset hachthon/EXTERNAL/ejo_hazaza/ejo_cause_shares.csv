@@ -1,0 +1,9 @@
+group,transport,storage,weather,cold,glut,handling,basis
+cereals,0.12,0.38,0.30,0.00,0.05,0.15,"Replaced by APHLIS value-chain step shares for Rwanda when the APHLIS file is present (harvest/drying = weather, threshing/winnowing = handling, transport = transport, storage = storage)"
+pulses,0.08,0.45,0.25,0.00,0.07,0.15,"Assumption from FAO/APHLIS literature on dry legumes: most loss is bruchid damage in storage and rain at drying"
+roots,0.20,0.25,0.10,0.05,0.20,0.20,"Assumption: fresh cassava, sweet and Irish potato rot within days; long road trips, gluts at harvest and rough handling dominate"
+bananas,0.25,0.05,0.05,0.15,0.25,0.25,"Assumption: bunches bruise on bicycles and trucks and ripen fast in heat; prices crash when many districts harvest together"
+vegetables,0.25,0.05,0.05,0.25,0.20,0.20,"Assumption from horticulture loss studies in East Africa (tomato, onion, leafy vegetables): heat, transport and packaging"
+fruits,0.22,0.05,0.05,0.28,0.15,0.25,"Assumption from horticulture loss studies (avocado, passion fruit, pineapple, citrus)"
+milk,0.20,0.00,0.05,0.55,0.10,0.10,"Assumption: raw milk sours within hours without chilling; collection-centre access drives the loss"
+cash,0.30,0.10,0.10,0.00,0.20,0.30,"Assumption: sugar cane, coffee cherry and green tea leaf lose weight and quality between field and factory"

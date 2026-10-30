@@ -1,0 +1,33 @@
+col_1,Before 01/09,Between 01-15/09,Between 16-30/09,Between 01-15/10,Between 16-31/10,After 31/10,Before 31/12,Between 01-15/01,Between 16-31/01,Between 01-15/02,Between 16- 28/02,Between 01-15/03,Between 16-31/03,After 31/03,Before 30/04,Between 01-31/05,Between 01- 30/06,Between 01- 31/07,After 31/07,Total,source,dataset,year,season,downloaded_at
+Nyarugenge,32.7,2.1,11.3,37.2,9.1,7.6,39.4,2.8,7.5,12.1,17.4,14.2,4.5,1.6,0,13.3,26.7,53.3,6.7,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Gasabo,26.7,11.3,23.8,26.7,5.9,5.5,31.2,12.9,4.5,8.3,21.4,13.9,3.9,3.5,8,44,28,20,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Kicukiro,33.5,8.4,7.9,43.9,4.3,2.1,32,13,4.8,6.7,13,19.2,10,0.7,-,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Nyanza,28,7.6,8.9,28.9,14,12.6,27.4,10.1,5.7,23.5,12.8,10.9,3.8,5.5,5.3,8,32,45.3,9.3,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Gisagara,24.2,5.5,8.3,33.6,19,9.4,31.8,5.7,5.4,12.1,18.9,14.7,8.1,3,3.9,12.3,26,39.6,18.2,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Nyaruguru,31.9,6.6,9.6,25.1,12.8,14.1,35.1,9,5.8,11.6,8.1,13.7,8.4,7.9,6,25.3,34.9,22.9,10.8,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Huye,26.9,6.1,11.8,33.7,12.6,8.9,30.6,11.8,11.2,20.2,12.2,8.9,2.5,2.3,15.7,15.7,21.4,35.7,11.4,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Nyamagabe,29.4,14,18,15.1,9.8,13.7,26.3,8.6,7.7,12.3,13.1,11.6,10,10,0,5.2,37.1,52.6,5.2,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Ruhango,36.7,8.7,12.5,22,14.2,6,32.8,6.6,6.7,23.6,19,6.2,2.1,2.5,16,16,26,40,2,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Muhanga,39.6,11.1,14.5,21,6.9,6.9,43.5,7.9,6.5,25.2,7.9,4.4,1.2,3,9.5,17.9,42.1,27.4,3.2,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Kamonyi,28.9,4.8,8,25.4,26.8,6.1,31.7,7.7,3,16.1,24.6,10.5,3.4,2.6,8.9,30.4,35.7,17.9,7.1,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Karongi,37.3,15.4,16.6,14.3,10.3,6.1,34.5,5.5,6.8,13.9,17.3,11.6,4.7,5.5,3.7,44.4,33.3,18.5,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Rutsiro,42.1,24.9,15.6,8.1,3,6.3,35.3,2.7,2.7,11.3,15,14.9,8.9,8.7,9.6,18.3,54.8,15.4,1.9,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Rubavu,57.9,18.3,9.1,5.5,4.3,5,12.8,4.9,2.7,9.9,15.7,17.3,17.3,19,10,16.7,23.3,46.7,3.3,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Nyabihu,28.1,24.4,21.8,8.5,5.6,11.7,15.1,6.5,5.4,12.8,15.4,25.4,11.9,7.2,3.7,24.4,40.2,29.3,2.4,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Ngororero,34.2,25.7,12.4,12.3,4.5,11,34.9,2.3,3.1,11.8,17.6,14.4,4.6,10.9,0,16.4,41.8,38.2,3.6,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Rusizi,25.5,16.5,21.8,22.4,9,4.8,53.1,0.7,0.9,7.8,17.1,12.7,4.8,2.6,0,15.2,15.2,33.3,36.4,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Nyamasheke,25.5,22.4,20.9,18.2,8.1,4.9,44.7,1.8,2.7,14,18.3,10.3,4.1,3.8,0,25,50,25,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Rulindo,32.1,36.8,17.7,7.1,2.2,4.2,33.7,7.2,5.5,5.3,14.2,17.9,8.7,7.1,6.3,34.4,28.1,25,6.3,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Gakenke,39.2,28.5,15.7,8.3,3.5,4.9,43.6,3.3,2.1,3,9.1,21.8,7.1,9.8,7,37.2,37.2,16.3,2.3,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Musanze,37.7,29.4,13.5,7.2,3.6,8.7,14.2,5.3,3,6.1,6.8,27.8,22.7,13.7,0.8,12.9,40.3,43.6,2.4,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Burera,23.9,39.7,10.2,7.9,4.5,13.9,13.5,12.9,5,12.5,9.3,22.1,14.7,9.5,0,28.9,51.9,19.2,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Gicumbi,23.6,32.7,18.4,13.6,3.7,8.1,20.3,11.2,6.4,11.2,9.8,26.8,6.5,7.5,8.1,66.1,22.6,3.2,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Rwamagana,39.4,6.8,13.9,31.1,6.4,2.4,42.1,5.2,6.6,10.6,14.3,15.2,3.4,2.2,6.7,20,20,50,3.3,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Nyagatare,21.5,33.3,26.8,13.3,2.5,2.7,16.9,1.8,2.5,8.1,28.3,34.1,5.9,2.1,0,13.3,73.3,13.3,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Gatsibo,27.1,12.9,23.3,25.3,7.6,3.8,32.1,3.3,2.6,11.1,17.4,22.6,8.2,2.3,5.1,37.3,28.8,27.1,1.7,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Kayonza,31.9,8.1,20.4,30.9,5.7,3,24.4,9.3,4.5,7,8,33.1,10.4,2.8,9.1,18.2,63.6,9.1,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Kirehe,35.8,2.7,7.9,26.1,19.4,8.1,38.8,10.1,4.5,10.5,17.3,15.4,2.4,0.8,9.1,31.8,31.8,27.3,0,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Ngoma,37.8,9,11.4,25.6,12.2,4,42.3,4.7,1.3,6.1,14.7,22.5,6.2,1.7,-,-,-,-,-,-,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+Bugesera,39.6,7.1,9.3,24.1,11.7,8.2,27.2,5.6,4.3,7.3,11.6,25.3,15.4,2.9,0,7.3,42.7,40.9,9.1,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+National,31.7,16.6,15.8,20.8,8.5,6.7,30.9,6.6,4.6,11.4,15.4,18.9,7.2,4.7,5.2,20.9,36.1,31.6,6.2,100,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
+"Source: NISR, SAS 2019",,,,,,,,,,,,,,,,,,,,,NISR SAS publication tables,SAS 2019 _Annual report _Tables::Table 25,2019,Annual,2026-09-19T00:08:34Z
