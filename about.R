@@ -80,7 +80,7 @@ about_ui <- function() {
         )
       ),
 
-      # ---- Mission & Vision (exportedia structure, portfolio skin) ----
+      # ---- Mission & Vision ----
       tags$section(
         class = "about-block about-mv",
         tags$h2("Mission & Vision"),
@@ -126,7 +126,7 @@ about_ui <- function() {
         )
       ),
 
-      # ---- Team (exportedia cards × portfolio dark frame) ----
+      # ---- Team ----
       tags$section(
         class = "about-block about-team-block",
         tags$div(
